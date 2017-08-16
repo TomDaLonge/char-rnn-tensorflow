@@ -12,6 +12,7 @@ class Model():
             args.batch_size = 1
             args.seq_length = 1
 
+        # select the type of the rnn
         if args.model == 'rnn':
             cell_fn = rnn.BasicRNNCell
         elif args.model == 'gru':
@@ -23,66 +24,92 @@ class Model():
         else:
             raise Exception("model type not supported: {}".format(args.model))
 
-        cells = []
-        for _ in range(args.num_layers):
-            cell = cell_fn(args.rnn_size)
-            if training and (args.output_keep_prob < 1.0 or args.input_keep_prob < 1.0):
-                cell = rnn.DropoutWrapper(cell,
-                                          input_keep_prob=args.input_keep_prob,
-                                          output_keep_prob=args.output_keep_prob)
-            cells.append(cell)
+        # create the rnn (layers/cells) itself
+        with tf.name_scope("CreateCells"):
+            cells = []
+            for _ in range(args.num_layers):
+                cell = cell_fn(args.rnn_size)
+                if training and (args.output_keep_prob < 1.0 or args.input_keep_prob < 1.0):
+                    cell = rnn.DropoutWrapper(cell,
+                                              input_keep_prob=args.input_keep_prob,
+                                              output_keep_prob=args.output_keep_prob)
+                cells.append(cell)
 
-        self.cell = cell = rnn.MultiRNNCell(cells, state_is_tuple=True)
+            self.cell = cell = rnn.MultiRNNCell(cells, state_is_tuple=True)
 
+        # create placeholders for input/target data, coming from the other parts of the program
         self.input_data = tf.placeholder(
-            tf.int32, [args.batch_size, args.seq_length])
+            tf.int32, [args.batch_size, args.seq_length], "InputData")
         self.targets = tf.placeholder(
-            tf.int32, [args.batch_size, args.seq_length])
+            tf.int32, [args.batch_size, args.seq_length], "Targets")
+
+        # intitial state of the rnn
         self.initial_state = cell.zero_state(args.batch_size, tf.float32)
 
-        with tf.variable_scope('rnnlm'):
+        # this is the last layer
+        with tf.variable_scope("LastLayer"):
             softmax_w = tf.get_variable("softmax_w",
                                         [args.rnn_size, args.vocab_size])
             softmax_b = tf.get_variable("softmax_b", [args.vocab_size])
 
-        embedding = tf.get_variable("embedding", [args.vocab_size, args.rnn_size])
-        inputs = tf.nn.embedding_lookup(embedding, self.input_data)
+        # map the signs/letters from the input to number tensors in a lookup table
+        with tf.name_scope("CreateEmbedding"):
+            embedding = tf.get_variable("embedding", [args.vocab_size, args.rnn_size])
+            inputs = tf.nn.embedding_lookup(embedding, self.input_data)
 
-        # dropout beta testing: double check which one should affect next line
-        if training and args.output_keep_prob:
-            inputs = tf.nn.dropout(inputs, args.output_keep_prob)
+        with tf.name_scope("Dropout"):
+            # dropout beta testing: double check which one should affect next line
+            if training and args.output_keep_prob:
+                inputs = tf.nn.dropout(inputs, args.output_keep_prob)
 
-        inputs = tf.split(inputs, args.seq_length, 1)
-        inputs = [tf.squeeze(input_, [1]) for input_ in inputs]
+        # change dimensions of the input data tensor of the rnn
+        with tf.name_scope("ResizeInput"):
+            inputs = tf.split(inputs, args.seq_length, 1)
+            inputs = [tf.squeeze(input_, [1]) for input_ in inputs]
 
+        # to be used in the next step
         def loop(prev, _):
             prev = tf.matmul(prev, softmax_w) + softmax_b
             prev_symbol = tf.stop_gradient(tf.argmax(prev, 1))
             return tf.nn.embedding_lookup(embedding, prev_symbol)
 
-        outputs, last_state = legacy_seq2seq.rnn_decoder(inputs, self.initial_state, cell, loop_function=loop if not training else None, scope='rnnlm')
-        output = tf.reshape(tf.concat(outputs, 1), [-1, args.rnn_size])
+        # propagate the data through the rnn
+        outputs, last_state = legacy_seq2seq.rnn_decoder(inputs, self.initial_state, cell, loop_function=loop if not training else None, scope='LSTMCells')
 
+        # change dimensions of the output data tensor of the rnn
+        with tf.name_scope("ReshapeOutput"):
+            output = tf.reshape(tf.concat(outputs, 1), [-1, args.rnn_size])
 
-        self.logits = tf.matmul(output, softmax_w) + softmax_b
-        self.probs = tf.nn.softmax(self.logits)
+        # calculations in the last layer
+        with tf.name_scope("CreateLogits"):
+            self.logits = tf.matmul(output, softmax_w) + softmax_b
+        # how likely is it for a sign/letter to appear next? used for sampling later
+        with tf.name_scope("CreateProbabilities"):
+            self.probs = tf.nn.softmax(self.logits)
+
+        # calculate the losses for this sequence
         loss = legacy_seq2seq.sequence_loss_by_example(
                 [self.logits],
                 [tf.reshape(self.targets, [-1])],
                 [tf.ones([args.batch_size * args.seq_length])])
-        self.cost = tf.reduce_sum(loss) / args.batch_size / args.seq_length
+        # mean loss
         with tf.name_scope('cost'):
             self.cost = tf.reduce_sum(loss) / args.batch_size / args.seq_length
+
         self.final_state = last_state
         self.lr = tf.Variable(0.0, trainable=False)
         tvars = tf.trainable_variables()
-        grads, _ = tf.clip_by_global_norm(tf.gradients(self.cost, tvars),
-                args.grad_clip)
-        with tf.name_scope('optimizer'):
+
+        # create gradients with backpropagation, clip them and optimize the weights
+        with tf.name_scope("CreateGradients"):
+            rawgrads = tf.gradients(self.cost, tvars)
+        with tf.name_scope("GradientClipping"):
+            grads, _ = tf.clip_by_global_norm(rawgrads, args.grad_clip)
+        with tf.name_scope('Optimizer'):
             optimizer = tf.train.AdamOptimizer(self.lr)
         self.train_op = optimizer.apply_gradients(zip(grads, tvars))
 
-        # instrument tensorboard
+        # instrument for tensorboard
         tf.summary.histogram('logits', self.logits)
         tf.summary.histogram('loss', loss)
         tf.summary.scalar('train_loss', self.cost)
