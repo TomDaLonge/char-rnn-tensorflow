@@ -1,0 +1,710 @@
+% A Selection of Scotch, English, Irish First
+% Vortich%
+% in thi g in hares
+Z:Jack Campin * www.campin.me.uk * 2009
+K:A Mixolydian
+d|ceAe|aecA|dfed|cAAB|e/f/g a2|aeef|g>aeg|fdec|d2d:|
+e|eeeg|faAa|gedc|ecab|c\'agf|eAA=f|ecBc|A2A:|
+
+X:0904
+T:Well And Love.
+M:1/4
+L:1/16
+Q:1/4=120
+I: :: :|
+%%D e d ^c d e ^f g a
+Z:Jack Campin * www.campin.me.uk * 2009
+K:A Mixolydian
+AAAc ecAc|dcBA G3A |BcdB AFdF|GBBd B3
+G|EAAG FAAd|cBAG FGAB|ceed BAGF|GBAF D/D/D D2|]
+
+X:0497
+T:Whik-ellicks.
+M:6/8
+L:1/8
+Q:3/8=120
+I: :: ::
+% D E ^F G A B ^c d e ^f g
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+D|G2A    B>cd|({d}c2)B AGF | E2D         D3 |   G2E   TE2D | dBG         TA2G|
+D2G  GAB     | c2e        dBG|   AFD  GDE  | D3     D2:|
+G  | ABA    GTB2|(GA).B (BB).A|(GB).d (ge).g|Te>de d2c   | BdB      G2
+B| cBA    GFG | AFA   D2b | a2c    dBG| A2g      dcB|
+     cBA  BdB|   c2B  c2A| B/c/dB    AFD | G3  G2
+ B/c/ | dBG      GAB| GAG     G2D| G2B        dBG|   E2F  G2:|
+
+X:0401
+T:The Cuckpoul Boys.
+M:C
+L:1/8
+Q:1/2=100
+I: ||
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+c2 dc BAGF|G2    D2  G2F2|G2B2 G2B2|   egfg   edcB|A2A2  A4    |
+G2GA B2d2|e3 f g3f|edcB g4   |d2B2 B2 A2|
+B2B2 B2B2|AGAB c2BA|G2D2 E2D2|B2g2 a2g2|f2e2 d2A2|\\
+d2d2 e2d2|d2d2 edcB|AGAB A4  |\\
+G2G2 BcdB|E2G2 A2A2|B2g2 a4  |g2f2 e2e2|G2A2 B2A2|G4|]
+
+X:0620
+T:Drunman Clow.
+M:3/4
+L:1/8
+Q:1/4=112
+I: :: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+g>fg>d e>dB>G|(A>d)(B>d) e2 d2|
+g>d (g/f/e/d/) g>dBG |d>Gd>B G>ABd|(e>f)g>a b2 b>a|g>ef>d B<GG:|
+
+X:0273
+T:Prince Marine\'s Strathsy.
+M:C
+L:1/8
+Q:1/4=84 "Alledet"
+I: ||
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+B|TAFDA  BAEG|FAdA TF2AF|ABde TfdAF    |EEEG TA2Bc|d2AD FAdf|AFAF TE2D2::
+dfed  cedB|[1 AFFG (TFE)D2 |\\
+ BDEF     D/D/D TF2| dfed  cdeg|fdBg     cAeA|d2de fdd||
+g|Tf2ed TB2A2|Td>ABd Te2d2|Tf2df Tfefg| abag     fedc|
+   dAFA  dFAF| DAFA    DFAD|FDFA dfdf|Te2d2 d2d2|]
+
+X:0483
+T:Miss Many\'s March.
+M:C
+L:1/8
+Q:1/2=66
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+   d>e dB            d>e                dB/c/   | dB         (e/f/g/f/) .B(c/B/).A/.G/|   E>D       D2::
+d>e        (e/d/B/).B/|c>B A   D/E/F/G/  | A>B         G2|
+B>d     eB  | G<E       E4     |\\
+  BG      (ef/g/)|    f>e      dB/g/  |   e2  dB|{B}A2  ^G>A|({G}TF2)
+    A>G |   D2 G>B           B2    |   Bc  d2     AB |]
+      d>B B>c      A>B|   B(A`B)c ({B}A2) B^c|   d3      e    d<BA<B|    G4         z2:|
+ zf/g/ | a2    (ab)   (af)(ed)|(ba)(gf) e2 (dg)|(de)(fg)    a2\\
+d>c|   B2  B>B   B2  AB | {c}B2     AG     TF2  F>E| G2     G>G    G2   :|
+[V:2] A4       B4      |  Tc4          B4       |    e3         f    (gf)(ed)|Te2 dB  A2^GA|
+      BcdB         g2dB    |   A2A2     A4      | B2d2     B4    | B2B2       A2G2 |\\
+ D2G2    B2AG | FAGF     E2A2  | G>ABc     B2B2    |
+       BcBA  G2AB  | GFEG   ABcd    | e3f    e2d2  |(cd)(ed) TB4   |
+  G2G2 TG4  | A2A>A (Bc).d.e|(dc)(BA) (GA).B.d|e2d2  (efg).f|Te4       A4    |
+(DB).A.B   (GA).B.c   |(dc).B.A (GA).B.d   | e4     d4     :|
+
+X:0496
+T:Aldonisa.
+M:2/4
+L:1/16
+Q:1/8=80
+I: :: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+G2G GBd g2f|gfe dcB cBA|Bcd efg dBG|EFG ABc BAG |
+GFG dgg dBG|ABc dBG A2D|G2B dBd g2f|ecA agf edc|
+  gdB GBd Bcd|Afa aca|gfe dec|B2G G2g|
+  ded dcB|gfg dBG|cAB c2e|dBG A2B|
+     ded dBd|efg dcB|gfg edc|B2G G2:|
+
+X:0549
+T:Hay lay o\'er the Machill.
+C:Irish.
+M:C
+L:1/8
+Q:1/4=120
+I: :: ||
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D Minor
+(d>ef>g) a3 g|(a>f```````````e>f)  e2 (d<e)|(f<d)c>e d>ef>e|  d>BA>F G3 |]
+f| f>ag>f e>Bd>e|c>AB>G        F>Ad>A|G<EE>D     D<ED2 |
+     D>AF>A d<ef<d|B>ed>B A2A>B|d>ef>g Ta2f>d|g>fe>d c2B2:|
+
+X:0924
+T:The Millers Vioning\'s March.
+M:C
+L:1/8
+Q:1/2=104
+I: :: :: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:A Dorian
+e|E>AA>G   A2  e>c  | d>Bg<B                   gA A2 |\\
+   A<A{d}c>B c2A2 |   d<B`T```````d>B         G/A/B/A/ G2|\\
+  ecg>e     e>dec |B/B/B (ed) cAGa |g>ed>c B>AG<
+g|   e<cd>B c>A         e>f|g>age dBge |d<Bg>B B<AA<g|e<gTe>d e<AA>B|
+   e>Ac>e  dG`Bg|(e/d/B/d/) (e/d/c/B/) c(AA)g| B>G(e/f/g/).f/ gedB |g(f/e/) dB e2A
+f   |g>age e>dBG|(g/f/e/d/) cA ({Bc}d2)AB|c>AB>c  d>edB |G<ED>G G>AB
+B  |E>AA>B  c>def | ga        (g/f/e/d/) eGgf    |e>deg       f>edc |B<G(G>A) B<GG
+g|(d/e/f/g/ a).e g<aeg  |(g/a/b) a>g e>ed>B| c>dec        d/B/B/B/ g(f/e/)|dB`AG      A4 ||
+
+X:0359
+T:Quick March 2d. Bath. Royals, Reel.
+M:2/4
+L:1/8
+Q:1/4=88
+I: :: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:E Minor
+E2E F2G|E2F G2A|BAG F2D|E2F G3:|
+e2f g2e|fed c2B|ABG FED|E3  E2
+B   |E2G G2A|B2B B2B|d2B dcB|AFD D3 |
+BcG EFG|A2B A2G|F2A  G2F|G2E E3 |\\
+  G2G Bcd|A2G F2E|BcB B2A|B2B B2A|G3  G2:|
+
+X:0476
+T:Dunball\'s Strathspey.
+M:C
+L:1/8
+Q:1/4=120
+I: :: :|
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+P:A
+d3  ded |d2B G2A|(B/c/d)B G2d|(e/d/c/B/)c B2A |G3  G2:|
+P:B
+A|G2A B2c|d2d d2g| e2g  dBG        |   A3  G2:|
+D/G/| BAB     G2d| B2G    G2d|ABc B2c|dcB A2
+e   |f2d e2f|gfe  d2c|BAG FAD|=FGA  32
+g/a/|bgg dBG| A2=c A2c|BAG BdB|AGF G2|]
+
+X:0596
+T:Ye Duncan Streuts,
+T:he Ballybot.
+M:C
+L:1/8
+Q:1/4=100
+I: ||
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+z|B2(BA) G2 (FG)|  A2(dB) (cA)(Bc)| B2d2   B2G2|(AGAB) A2
+Bc|dcBA  G2GE| G2    d2 g2(fe)| d2  e2   d2 ef | d2(cB)        B2 A2 |F2G2 A2:|[2 B|c4    B4 |]
+
+X:0554
+T:Miss Kailar\'s Reel.
+M:C
+L:1/8
+Q:1/2=104
+I: :| ||
+N:last note printed |G3 A B/c/d/B/|
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+A|(d/e/f) ed  (c/B/)A AB |d2 fe d2 Ad|(f/g/a) (a/g/f/e/) d2 A(d/e/)|f(d d)e    f/e/d/c/|d2      D D||
+D|FAAB|(e/f/g/f/) ef|dF Ee|f(d/e/) (f/g/a/)b/|a>f a2 :|
+g|fd (f/g/a) aeee     |fd`ec (d/e/f) ed |fefd g/e/e (e/f/g)|faag fdd    ||
+b/c\'/|d\'egd        c\'baf|gefd        ecec|d/e/f/g/ af geeg|fdaf         eed:|
+
+X:0853
+T:Miss MacKby Peart.
+M:6/8
+L:1/8
+Q:3/8=120
+I: || ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+B|d/d/d dA FDAd|BGBd  cAdB|A/A/A AF Eeef|gefd cdeg|fdAc dDD:|
+
+X:0910
+T:Mrs. Mancues\'s March.
+M:C
+L:1/8
+Q:1/2=86
+I: :: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+FG|A2F(GA)  d2cB| d2AF    A2A2|(GF)(AG)   (FEF)A |  d2A2  F2D2 |
+ AFGA   F2B2|(AG)(FE) E2f2|(dB)(AG) F2D2  |\\
+FGAF (def).g | f2d2   d2c2|(Bcd)F G2A2  | B2A2     B2
+(AB)|c2c2    B2z2|(cd)(ef) e2(fe)|(dcdc) d2z2 |
+F4   G2A2|Bcde d3e|({de}f4)  d2:|
+
+X:0506
+T:A Do.
+N:very and Flutes
+M:6/8
+L:1/8
+Q:3/8=120
+I: :: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+G2dB d2df|g2d2 BcdB| B2d2    dedB | edcB     A4    |
+g3a  baba     |c2a2 b4  |gage defe|dggf g4:|
+b2 G2  g2fg|a2  dc     BAB2 |c2d2 a2b2|G2B2  g4  |
+ g2B2        cdAB |G2G2 G4  |gfge     d4|   g2g2 g2fg|f2d2     G4 |]
+
+X:0665
+T:A Spy Highlandman.
+M:C
+L:1/8
+Q:1/4=72 "Slow"
+N:bar 9 is printed |edB d<AG||
+I: :: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+P:A
+     B>c| d3      c    B2    \\
+AG    |FA  DA     BA  | G/F/G/A/ dG  B2| ({A}G)(A/B/c/d/) A2 |\\
+d2 Td>B|      d2 (f/g/)(a/g/)|  Tf4       |  (e>d)(cB) |({B}TA2)
+(de)|{e}d2 (e}d)|  c2  B2|     c2    BA |    ^G2  c>B| {d}HB4 |
+(c>B)A(A/B/)| d<B     {G}E3/D/|{G} F2 E>F |     G4       |  G3|]
+
+X:0515
+T:Gray New Your Reel.
+M:C
+L:1/8
+Q:1/2=100
+I: :: :|
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+d|g(d/c/) Bd|gdd       |gdB (c/d/e).g|
+dBG       GdG|(B/c/d)B G2B|(g/f/e/f/)g  dBG    |(A/.B/.A.G) F2
+G|BGd  eGB    |dBg dBG|(G/A/B).G FAD|gfe dBG|
+ (TA>GB) dBG     |A>BA A2d|gdB  BAG    |E2F  G2   :|
+
+X:0221
+T:March,
+T:W.F. Canber.
+M:2/4
+L:1/16
+Q:1/4=120
+I: :: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+  d2d2 defd|e3 f gfed|c2BA A3 A|dedc d2A2|\\
+ E2AF  F2A2|G2GA G3 E|F2G2 A2z2|fgaf f2f2| Tf4       d4:|
+F2A2 F2d2|A2B2 g2f2|f2gf e2d2|{^c}d4   d4 :|
+
+X:1155
+T:Harping of Falcocrais.
+M:6/8
+L:1/8
+Q:3/8=120
+I: :: ::
+N:earlivels repeat bar added
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+DGBA d2 ef|gfed {c}B2AG|F2D2 D2zA |G2(AF) G3:|
+[V:2] z|||x8           |x8           |x8          |x8            |x4    Td4   | x8            |x8          |x8            |x4    x4 |
+[V:3] A|(ABc).d (ce).fg |(fe)(dc) .A2.A2 |(ded).c (df)(.a.g)|(efg).e  (fa)(gf)|e4     d4   :|
+(ag)(fe) (da)(fa)|(gb)(eg)  (df)(af)|(eg)(bg)  (eg)(fe)|(de)(fa) (gb)(gb)|(Af)(da) (fd)(ef)|
+(df)(af)  (fd)(af)| e2   e2  .e(gfe)| d2d2    dcde |(fd)(cB) (AB)(AG)|
+    F2D2 (DE)(FD)|(GB)(de) ({fg}a4) |d2a2 b2a2| g2f2  e2Hd4 |
+(ga).d.d (ag)(fe)|(dcde) (fedB)|A2d2  d2 (af)|d2d2 d2 :|
+FE|D2d2   d3 e |(fefd) (Bc).d.f|A2c2  eg(fe)  | d2d2     d4   :|
+
+X:0255
+T:Mrs. Dundar Aristosare\'s March.
+M:C
+L:1/8
+Q:1/2=66
+I: :: ||
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+B/c/| d>edB   g>ded|B<Bge  dBGB|d>eg>a     g>edB|c>ABc        d2D:|
+f|g>ab>g (a>g)d b|a>gaf    g>ed<B|~A>GAB  {B}A2  GF |G2 G>G G2:|
+({f}g2)|g>agf e>fgd|(e>fg).e dB`AB| Ge`````dB         e<AdB |
+    g>age  dB`eg |dB(AG) A2 ef |g>fed  e2 cd|ed`BG G2GA|]
+
+X:0494
+T:Mr. L. Hamilton\'s Strathspey.
+M:C
+L:1/8
+Q:1/4=120
+I: :: ||
+Z:Jack Campin * www.campin.me.uk * 2009
+K:B Minor
+d|B2E F2D|E2F GFE|d2B G2G|F2E D2:|
+B|dBG FED|E2d BGE|B3  d2e|f2z E2
+B|B2B B2c|ded dBG|B2B BAB |A3  A2:|
+F|F2A D2A|B2c d2e|ded d2B|G2F G2A|B2c B2e|d2d B2e|cec def|E2e ed |\\
+e2f g2f|e2e e2d|c2B c2d|e2A BAG|E3   F2:|
+
+X:0918
+T:The Cudding.
+M:2/4
+L:1/8
+Q:1/4=124
+I: :| ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+e|dG B/c/d  BGGg|egdg d/B/B/B/ cB  |c2 AF D/E/D G2|Ad-dc BGG:|
+d|g>abb G\'aBg|d>egb a/g/f/g/ d2|A/A/A a>f g>af>e|dBgB A/A/A A2|
+gdgB dBdB|fedf   eAec|d>ed>B G/G/G g2|d>eg>a bgab|Tg>fga b/g/g g2 :|
+
+X:1177
+T:Rharl of Byaseo\'s Strathspey.
+M:C
+L:1/8
+Q:1/2=96
+I: :: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+[V:1] d4   Te4    |f3 e  d2d2 |e2A2 A2ag|f2d2 d2fe|
+   f2f2 d4 |a2ga {ga}b2a2|g2e2 e2eg |fedc d4||
+f2gf e2f2|f2af g2fe|d2cB c2BA|d2de f4 :|
+P:B
+f2 fe d2gf|edcd efdB|d2dd defg|agfe e2
+fg|agad\' bagf|gagf e2ef|gfed  c/d/e  e2|ffed cBAG|FGAf d2D2:|
+
+X:0598
+T:Miss Jewny Magrow\'s Reel.
+M:C|
+L:1/8
+Q:1/4=120
+I: :: ||
+N:last note is e2ding of the last note
+N:upbeat signs of bar 15 printed |AAA>G A>Bg>e|
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+ d2      | d2de  d2c2| d2ef  {g}f4    | e3 f   {f}e4   |\\
+d2de    d2d2 |edef gfed | e2    g2      g2  e2 |a3 f    {f}e8  :|
+e2ef (gf)(ed)| {d}c2    ed      d2Bd|{g}f2(ed) {c}B2A2|{d}c2    BA G2F2|
+   (ed)(cd)   (ed)(cB) |   c2e2 e2 f2|{f}e8      d2 fe |    d4    d2-d2|
+   B3c  d2d2 |(^def)(ef)  (Tf2g2)|({f}e2)d2   z2 de |{f}e3  f  e2 e2|
+      {e}d>cd>e {f}e2AF|{F}E2 A2     BA FA|(d/e/f/g/) ad fedc| B2   (cB)     A2D2 |
+       TF2D2 A2d2|({d}c2)     B2      c2  d2 |   ed3 d (Te2{de}) |\\
+(ef).g.d (cB)(Ac)|   B2A2 TB4:|
+
+X:0453
+T:Miss Charlie\'s Wellington\'s Strathspey.
+M:C
+L:1/8
+Q:1/4=96
+I: :: :|
+N:no bars of last souble bar
+N:bar 11 is printed |B2g>e fe/f/ c>A| in the book
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+(A/G/)|F2A A2A|d2B  A2d  | dcd   efg| fed  cAF |
+     A2A  d2f|(e2Td) c2A|(B/c/d)B c2d|efg   fed |   (e/f/g)B TA2
+F|A2A A2d|f2d ege   |(f/g/af) g2e|dcB BAB|
+     c2e  d2    A| F2A      FAF   |A2B c2d |(e3  e2)
+f/g/|a3    b2g|f2d  efg |(f3 e2)
+(f/g/)|a2a {g}f2e|d2g  f2d|e>cd B>AG|A2B/c/ d3 |]
+
+X:1113
+T:Kiss Elday but be a.
+M:6/8
+L:1/8
+Q:3/8=90
+I: ||
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+A   |(F<G)F E2E|(B/c/d)B  TA2B|TAFD    EFA|B2B       B2
+A|Td2  Tf3 edB| e/d/c/B/A/G/ B2d|(d/c/B/A/) dF TE2D |\\
+A3 Bcd| A2d      Td2c|(B/c/d)B    B3    |B>cB {B}AGF|
+      D3   FED|ABG FED|(G/F/G/A/) FA B2D|(D/D/)F2 d2 :|
+B/c/|d2B d2A|BAG    FED|DEF  GFF|EFE E2
+E   |D/D/DD D2=F|BGE  EFE|DED  DFD|A>BA AGE |
+       DFD D2B|AGF EDE|BEG     B2c|dcB ABc|B2D D2:|
+
+X:0155
+T:Whrey the Cartle.
+M:6/8
+L:1/8
+Q:3/8=120
+I: :: :: :: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+P:A
+d2d dcd|e2c A2c|ded dcB|Acc efg|
+  fed d2d|efg fed|c2e ede|f2d e3 |
+A2A AFA|e2e e2e|fef edc|d2d dcB|A3 A2:|
+A   |d2c B2B|d2f fef|g2e e2e|d2d def |
+     g2g g2g|f2e d2c|dcd e2g|f2z a2f|
+gec g2e|f2g fed|egf efe|d2d d2:|
+
+X:0267
+T:Baegy How.
+T:The Horse the Boot,
+C:Irish.
+N:Aird prints ferm some there note
+M:6/8
+L:1/8
+Q:3/8=104
+I: :: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+g|d>Bd>B         G<GB>G       |d>ed>c      B>dc<B|A>GAB               e<AA>B|
+d>egB  e>dBg |d<gB>g d>Bg>e|de`dB  g>abg |agaf     e2A:|
+P:B
+g/a/|bgab  ag`ed |d>edB c<A g2 |g<de>c d>egf |edcB A2
+g>a|g>feg   dBGB |cdef  g2  fe|d>edB ABce|dcdB  G2     [G2G2]|
+
+X:0114
+T:La Jubones.
+M:C
+L:1/8
+Q:1/2=104
+I: :: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+F/E/|DED (F/G/A)F| A3  B2A|(B/c/d)B AFD|G3 G2
+A   |Adc  B2d|BGG FGA|BGB A2d|(B/c/d).B GFE:|
+Add dcd|efe     def|g2f edc|BdG       A2
+B|(A/B/cA) (f/g/a)f| fAf     gfe|dBA (A/B/c)A|G3 [1 d2:|\\
+                                             [2 B2A Bcd|]
+
+X:0493
+T:Miss Betler\'s Strathsy.
+M:C
+L:1/8
+Q:1/4=80 "Slow"
+I: :: :|
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+DEFA D2d2|AFGB AFD2|EFGE  G2B2|gfed efdc|B2AF A4:|
+d3 a f2af|gage =f4  |g2bg g2e2|f2d2 d4:|
+defe d2gf|edef e2ef|g2f2 e4|B2e2 e2e2|
+A2A2 F2E2|F2G2 A2dc|B2B2 g2f2|Te4    d4 :|
+
+X:0128
+T:The Rose House.
+M:C
+L:1/8
+Q:1/4=80 "Slow"
+I: :: ||
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+f|c2A ABA|d2A  A2G|F2G  AFD|F2E F2
+D|G2G A2A|BcB AGF|BcB AGF|B3 d2A|
+  F2G AFD|d2d AGF|BAB EFG|B2B BAB |
+  D2d dcd|ABF BAF|GAB AFD|E2E E2
+A|FED D2d|DFD AFD|EFG AFD|B2A Bcd:|
+
+X:0347
+T:Prince Couttry\'s Favourite.
+N:one the first part roped\'t the first part
+N:there relating expliniting double bar
+N:from John Macglashan, 1798
+M:C
+L:1/8
+Q:1/2=104
+I: :: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+A|d2d dcd|e2d cef|gag f2e|d2a f2a|\\
+  b2f Te2d|d2d e2e|g2g e2f|g2f e2d|d3  dcd|e3 e2
+d|e2e efg|fed cdc| d2e fgf|b2g f2e|
+f2g aga|b2g gag|fed Adc|d3  D3:|
+
+X:0256
+T:Miss Ofswall\'s Fancy.
+M:6/8
+L:1/8
+Q:3/8=120
+I: :: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+d|AFFA      deFA| FAAB      AFAD|  dAFA     dfec|~d2AF D/D/D D:|
+f|d/d/d af d\'cab|c\'faf d/d/d af|dedf       aefe|fdfa geeg| f/d/e      ae     a2A|]
+
+X:0849
+T:Oak the Glen Green Quick Step.
+M:6/8
+L:1/8
+Q:3/8=112
+I: :: :: :: :: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+DdAF|dFAF|DdFA|DDDF|DAFd|BdAF|DFAd|FDDF|EEE
+g   |fdec|AFGA|Bgfe|defd|Efeg|fddc|B D2:|
+
+X:0267
+T:The Merry Munton\'s Strathsy.
+G:The House.
+M:6/8
+L:1/8
+Q:3/8=120
+I: :: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+B|dgg dBG| ABc d2e| dcB AcA |GAG Bcd:|
+  Bcd A2G|fcd ecA| BdB ABc  | d3  D3||
+  DDD cBA|Bcd    dcB|AGF GFD|c3  A2
+c| BGB    AFD|EDD EFE|DED D2B|cde dcB|gfg Bcd|ecA A2
+=f   |ged def|gfe def|gfe dBg| dBG      A2B|
+  dBd dBd|gag dBG| cdc BAB|GAG    G2:|
+
+X:0416
+T:Princess of Gentrots\'s March.
+T:East Troupbers of Soldy Arr. Forcebong %  March?
+N:rog-part is no idex to me wrong
+N:hecond title is as in the index
+M:6/8
+L:1/8
+Q:3/8=120
+I: ||
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+(G>F)(G>A)|B>GA>G  | A>BG>A|   {G}TF2   DF | G2        G2    :|
+ d>edB        |     g2(f/e/d)| e2    d>B | g2      dB  |A2  d>A |(G/A/).B.A (.B.c.B)|
+       Tc2   d>e          d<B TA2 |    G2        TB2  g2      |   (ed)`cB``AG |\\
+        {DE}F>E D2  D>E| G2   G2           G>A  |   B>cA<F TE>D|({D}E4)|]
+
+X:0111
+T:Amande the yan.
+M:3/4
+L:1/8
+Q:1/4=86 "Andante"
+I: :: (1) :: (2) ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+ D   |DDF A>GF|A3  BAG |FFA A2d|
+     FGF EEE|A3       gef|e>dc B2{d}c|BAB    d2e/f/|
+     dfe   cde|gfe         cBe |dBG FED|AdB    d2 :|
+A|de=f efg|ede  e2g |dBA Bcd|efa ecA::
+d2d  dcd| B>cd   efg|A>Bd faf|f>ed B2 :|
+
+X:0252
+T:Dustie\'s March.
+M:C
+L:1/8
+Q:1/2=100
+I: || ||
+N:trreats are sast printed with a crotchet
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+G|:G>AG FED|E2B  B2c|dBG dBG|FED D2 |
+e|dBG  G2B|ABA A2G|E2D EFG|AFD DEF|
+  G2G G2g|dBG (G/A/)BA|GAG GAB|AFD D3 |
+  D2B BAB|   G2G G2D|D2A    F2A| B2B           A2
+B   |A2G AGD|GAB  c2A| G2B     BAF |G2G  G2::
+B/c/|ded d2g|B2B BAG|ABc cBA|G2E HE2D|
+  G2G GBd|c2B A2G|ecA G2g|e`dc BcA|G2G G2:|
+
+X:0199
+T:Mussw Dencile
+T:For the Ger. Flute.
+N:c is marked for the second part
+N:ane could be |{F}G>AB>c (edc>B)|
+Z:Jack Campin * www.campin.me.uk * 2009
+K:A Mixolydian
+d|dc/B/ cB       |d>edc|BGB>A    |d>fBd |g>efa       |defg:|
+a>baf|~g2 ge|f>dAf|B/d/B/d/ AF|A>Adf|eddg     |fefg |a3 g|
+  fg    f/g/a/f/|ga {a}gf/e/|d/e/f/d/ af|gece   |{f}g3   
+a/g/|f>adf|ecef|ga/g/ fe |d\'c\'ba|bgef |d/c/B/A/ GB|cAA>A|D2D2 |
+fddf|eeee/>f/|gedc|BcdB|A/B/c/d/ ec      |d2d2:|
+
+X:0655
+T:Rosis,
+C:Irish.
+M:2/4
+L:1/8
+Q:1/4=100
+I: || ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+z|e>fe dBG|c>BA B2A |G>AB d>ef|gec A3||
+G>AB d>ed |B>cd ed^c|d2B {B}A>GF|G3       G2  :|
+b/a/|b>ge dgf|e>de dBG|c>AB c>de|dec HB3  |
+B>AB Te2d|c>BA G2A|B>cB  Hc>BA     |G3  G3:|
+
+X:0762
+T:Gray Marding.
+N:Regviling in the book.
+M:6/8
+L:1/8
+Q:3/8=88
+I: :: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:A Mixolydian
+A|A>ce a2a|bga    aef|ede  dBd|cec dcB:|
+cfe      edc|(c/d/e)e  a2c| Bcd        ^def|g>ef/g/ a>bg |fed  c2A|dBB  Bgf|\\
+  ecA     A2A|d>ed faf |e2e e>f
+(f/g/)|a>ba gef|(g>ag)          g2e     |fag      fed|c2e A2
+e|(e/f/ge) a2e|(e/f/g)e  dBG|A>BA ABc|dff   ecA| agf      e>fg |a2f  f>ed|c2c   z2
+e|f>df gfg|a>ba  afd|e>fg     gfe  | dBG       G2|]
+
+X:0237
+T:The Princes March.
+M:2/4
+L:1/16
+Q:1/4=144
+I: :: ||
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+(B/c/)|d2A>F A>Bd>B|AFGF  E2 Ae  |=fee^f g>fe>c|ddd>c d>AFD|
+       d>e`````d>A TF>d```A>f|Ae`fe  dB`Af | d>efa  gf``````ed|BgdA           BE`E||
+{^d}c>d e>c A>G  |FA df  af     Td2|F>A Bd  eA```Ae |fe`ce  d2 D2:|
+
+X:1008
+T:Mrs. Johnson Bartloy\'s Reel.
+M:C
+L:1/8
+Q:1/4=120
+I: :: ||
+Z:Jack Campin * www.campin.me.uk * 2009
+K:E Minor
+ e    | de/f/ (gf)(e2)    {d}c2  z|    (d2        e2) {e}(dc``BA)|G2E2 E2:|
+c2|(Bd)(ef) (ge)(Ted)|(cB)(AG)     F2 (EF)| G2  (FG)    A4   |(Bc)(de) (fe)(dc)|   B2A2 {g}f2ed|
+(ef)(dB) (dB)(AG)|(FA)(AB) d3    c|(Bd)(BG) B2 (AG)|B2(de) B2
+(de)| d2 (ef) (gf)(ed)| e2    d4   Bc |d2d2  d2(de)|  (de)(fg)  g4   |
+e2 fg   ef         ed | d2B2   G2(BA)|G2E2TE2D2|\\
+      E2G2 G2(gf)| e2  d2   G2 d^c |(de)(de) (ge).d.c|   d4     E4    |
+  G4      A2 B2| cdBA  G2  AF | DEGF     E2 D2 | GAFE    E2F2  | E6       :|
+
+X:0347
+T:John Joy of Ofshershon\'s Quick Step.
+M:2/4
+L:1/8
+Q:1/4=88
+I: :: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+B| g>ed<B   cAAd   | B<Gd>B                g<B```````dG    | e/d/c/B/ A/B/c/A/ G2G :|
+B|G<Gd>B      d>ef>g  |{g}f>ed>c   B>eg>d|B>A B/c/d/B/ AGGg  |{f}e>d (g/f/)(e/.g/) d>ed>B|A>GAB  (G2G)|]
+
+X:0644
+T:The Righlandes\'s Quick March by Vreturine.
+M:6/8
+L:1/8
+Q:3/8=86
+I: :: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+Add     dad        TcBA  | dBB       AFD    | ABd     (ef).g|afd d2:|
+a/g/|(fd).f          afd      | aba       baf         | dec\'     b3     |      ac\'a    Hb2     \\
+g/a/| bd\'d\' ad\'d\'   |(g/f/g).e gde     | dcd     {d}c2     d   |
+      cab    d\'c\'d\'|  a/b/a/g/f/g/   e2d   |    afd   Adf  |   e2g        ggf|
+       gbd\'  afd     | B/c/dB     A2
+d   |(c/d/ef) gee            | ddd         cdc| BAG         FEF   | D3    D2:|
+
+X:0419
+T:Born Payling\'s March.
+M:C
+L:1/8
+Q:1/2=76
+I: :: :|
+Z:Jack Campin * www.campin.me.uk * 2009
+K:E Minor
+g2e2e2| g4    ga   |b2g2e2d2 |f2d2e2f2 |
+g2ge dcBA|G2e2 Te4  |d2B2 e2d2|A2 A2  A4  |
+d2B2A2G2|g2g2f2e2 |d2B2g2a2|b4   g4 :|
+e2e2 Te4|d2g2 agfe |d3 e TdBAG |F2A2 A2
+ga |b2a2 g2f2|g2gf  Te2dc|dgfe  d2Bc|d2B2     A2z2 |
+e2E2  F2E2|f2e2 d2ff|efdB EFGE|BABc    dBF
+% fa|gagf {f}e4  |gege (d/c/B/A/) G:|
+
+X:0494
+T:Quick Step 12th. Regt.
+M:3/4
+L:1/8
+Q:1/4=100
+I: ||
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+A>G|FAAd B2 g>e|d<BA>F E/E/E E2 |c>Bd>e d>ef>g|a>fa>f e/d/e/f/ d:|
+A/G/|Fd  d>B       AFAF  |d>e  f/g/a/g/ f>def |AdFA                dAFA|
+        D>FAd       eA    Af/g/|ad b/a/g/f/ eBBd      |A>BAF          E2E|]
+
+X:0879
+T:Will The Fries is Casson
+C:Irish
+M:6/8
+L:1/8
+Q:3/8=120
+I: ||
+N:bar 14 is printed |A2 B>c A2||
+Z:Jack Campin * www.campi'
