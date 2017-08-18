@@ -1,0 +1,2036 @@
+X:1
+K:D
+M:4/4
+A|F2 D>F
+%Error : Bar 1 is 1/2 not 4/4
+|d2 A>F
+%Error : Bar 2 is 1/2 not 4/4
+|D2 F2 
+%Error : Bar 3 is 1/2 not 4/4
+|A>dd>b
+%Error : Bar 4 is 1/2 not 4/4
+|a>fd>f
+%Error : Bar 5 is 1/2 not 4/4
+| e2
+de
+%Error : Bar 6 is 1/2 not 4/4
+|f>g g2
+%Error : Bar 7 is 1/2 not 4/4
+|a>ba>g
+%Error : Bar 8 is 1/2 not 4/4
+|a2 z2
+%Error : Bar 9 is 1/2 not 4/4
+|faba
+%Error : Bar 10 is 1/2 not 4/4
+|b3g 
+%Error : Bar 11 is 1/2 not 4/4
+| f>g`(f>e)
+%Error : Bar 12 is 1/2 not 4/4
+| f2 d>d
+%Error : Bar 13 is 1/2 not 4/4
+|
+(d/2e/2f) ad
+%Error : Bar 14 is 1/2 not 4/4
+|A2AA
+%Error : Bar 15 is 1/2 not 4/4
+|Bcdc 
+%Error : Bar 16 is 1/2 not 4/4
+| dB`AF
+%Error : Bar 17 is 1/2 not 4/4
+| c2 A2 
+%Error : Bar 18 is 1/2 not 4/4
+|G2 A>B
+%Error : Bar 19 is 1/2 not 4/4
+| c2 d2:|
+
+X:842
+T:vierlile\'s March.
+M:C
+L:1/8
+Q:1/2=76
+I::: :|
+N:second wart is printed as Aitheaved for the bork
+M:2/4
+L:1/8
+P:ABA
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D Minor
+c|B>AGB A>d`Bd 
+%Error : Bar 1 is 1/1 not 2/4
+|d>B d/2B/2A/2G/2 B<B B/2d/2B
+%Error : Bar 2 is 1/1 not 2/4
+|d>B```````AG dEED
+%Error : Bar 3 is 1/1 not 2/4
+|E>A``````````Ad D2D2:|
+d>e`````fd Bg``bd 
+%Error : Bar 5 is 2/1 not 2/4
+|B<AB>d eA````Ae
+%Error : Bar 6 is 1/1 not 2/4
+|cgdg fe`d>B
+%Error : Bar 7 is 1/1 not 2/4
+|dd`````````ed BBAA 
+%Error : Bar 8 is 1/1 not 2/4
+|
+B<BBd g<ed>B
+%Error : Bar 9 is 1/1 not 2/4
+|B<GA<B c>eEa 
+%Error : Bar 10 is 1/1 not 2/4
+|ge`dB AB`G`F
+%Error : Bar 11 is 1/1 not 2/4
+|GB```EB EDD
+%Error : Bar 12 is 7/8 not 2/4
+|]
+
+X:1028
+T:Miss Aalcea House\'s March.
+M:C|
+L:1/8
+Q:1/2=72
+I::: ||
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+Bec dcB|cAA ABA
+%Error : Bar 1 is 3/4 not 2/2
+|FAA d2A
+%Error : Bar 2 is 3/4 not 2/2
+|Bdd d3:|
+fad aed
+%Error : Bar 4 is 3/2 not 2/2
+|eaa geg
+%Error : Bar 5 is 3/4 not 2/2
+|fed ecA
+%Error : Bar 6 is 3/4 not 2/2
+|d2d d2
+f/2g/2
+%Error : Bar 7 is 3/4 not 2/2
+|a2d f2d
+%Error : Bar 8 is 3/4 not 2/2
+|ecA dcd
+%Error : Bar 9 is 3/4 not 2/2
+|e3 dBG 
+%Error : Bar 10 is 3/4 not 2/2
+|A>BA (A/2B/2c) d
+%Warning : No repeat expected, found :|
+:|
+d2d efg
+%Error : Bar 12 is 3/2 not 2/2
+| def a2g
+%Error : Bar 13 is 3/4 not 2/2
+|fdf fdA
+%Error : Bar 14 is 3/4 not 2/2
+|Ggg g2
+f
+%Error : Bar 15 is 3/4 not 2/2
+|egf ege
+%Error : Bar 16 is 3/4 not 2/2
+|fdf agf
+%Error : Bar 17 is 3/4 not 2/2
+|gfg def
+%Error : Bar 18 is 3/4 not 2/2
+|fed dcd
+%Error : Bar 19 is 3/4 not 2/2
+|
+fed edc
+%Error : Bar 20 is 3/4 not 2/2
+|def gfg
+%Error : Bar 21 is 3/4 not 2/2
+|fgf edc
+%Error : Bar 22 is 3/4 not 2/2
+|d3 d2
+%Error : Bar 23 is 5/8 not 2/2
+|]
+
+X:688
+T:Ghan\'s Nay\'s Favourite Air.
+M:3/4
+L:1/8
+Q:1/4=84
+I::: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+a |agf gag |fga fab|a2f d2 a|gag aba|g3 a3|d2e d2g|f2d Tc3 |
+%Error : '\' in middle of line ignored
+\
+Adf (gf)e|ded d2d|
+d2e fde| cBA TA2d|Bcd Tc2A|({B}A2)d (Bd).B|d2d d2
+A|def {b}a2g|fga f2e|dcB A2G|FDD D2
+A|dda dga|f2a g2b|
+%Error : '\' in middle of line ignored
+
+%Error : Unrecognized character: '
+
+%Error : Unrecognized character: 2
+ aba cg
+%Error : Bar 21 is 5/8 not 3/4
+| a3 a3:|
+
+X:499
+T:Mrs. Hate" Jaansen\'s Hornpipe.
+M:6/8
+L:1/8
+Q:3/8=120
+I::: (1) :| (2) ||
+Z:Jack Campin * www.campin.me.uk * 2009
+K:E Minor
+fe|dBBA ({B}A2)B>A
+%Error : Bar 1 is 1/1 not 6/8
+|B>BBB d>efd
+%Error : Bar 2 is 1/1 not 6/8
+|e>de>d e>fg2
+%Error : Bar 3 is 1/1 not 6/8
+|B/2d/2e c>B {B}A3 :|
+e
+%Error : Bar 5 is 1/1 not 6/8
+|g>egB e>egf
+%Error : Bar 6 is 1/1 not 6/8
+|e/2d/2e ge g>ege
+%Error : Bar 7 is 1/1 not 6/8
+|d>deg TdBBG 
+%Error : Bar 8 is 1/1 not 6/8
+|A>Bcd e3 
+g
+%Error : Bar 9 is 1/1 not 6/8
+|gg a/2g/2a/2a/2 g>edB
+%Error : Bar 10 is 1/1 not 6/8
+|d2B>d g>ag>a
+%Error : Bar 11 is 1/1 not 6/8
+|g>edB c>dBe
+%Error : Bar 12 is 1/1 not 6/8
+|dcBA A2A
+%Error : Bar 13 is 7/8 not 6/8
+|]
+
+X:943
+T:A Strathspey.
+M:C|
+L:1/8
+Q:1/4=120
+I::: ||
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+GG`FG ABAG| BGdG (A/2A/2).B/2.A/2 AG|FAAB cABc|dBAG F2D2:|
+gdGc Bggd|ef g/2f/2e/2d/2 g2 ge |fdcA BGGB|A/2G/2A/2F/2 GA BGG
+%Warning : No repeat expected, found :|
+:|
+a|gdg>d cded|eddb edcB|AGAB gega |gedB G/2G/2G B
+%Warning : No repeat expected, found :|
+:|
+ [2 G/2G/2G Bc ddef
+%Error : Bar 13 is 15/8 not 2/2
+|g/2f/2g ad BAde|dBBd gfg/2a/2b|
+bgaf dBcA|Bgcd BABd|ggdd fddc|dBAG F/2D/2D D
+%Warning : No repeat expected, found :|
+:|
+
+X:308
+T:The Margol\'s Thor is moure Ginny Fe.
+M:3/4
+L:1/8
+Q:1/4=108
+I::: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+DG| A3B g2Te2 
+%Error : Bar 1 is 1/1 not 3/4
+|{e}d4 B2 d2
+%Error : Bar 2 is 1/1 not 3/4
+|(ef)(ge) (d>e)(dc)
+%Error : Bar 3 is 1/1 not 3/4
+| B/2A/2B A>B G4 
+%Error : Bar 4 is 1/1 not 3/4
+||
+g3` ```a {ga}b2a2 
+%Error : Bar 5 is 1/1 not 3/4
+| b4 g>f```e>d
+%Error : Bar 6 is 1/1 not 3/4
+|(e>c)``````A>B g4:|
+g4 d2 c>A
+%Error : Bar 8 is 2/1 not 3/4
+|B>c`d>e a/2g/2a/2f/2 g2
+%Error : Bar 9 is 1/1 not 3/4
+|efga Hb2 a2
+%Error : Bar 10 is 1/1 not 3/4
+|g2`e>g d2
+d2 
+%Error : Bar 11 is 1/1 not 3/4
+|g2Td>e b2 g2 
+%Error : Bar 12 is 1/1 not 3/4
+| d>e`dB G2 d>B
+%Error : Bar 13 is 1/1 not 3/4
+|A2 A>B d2 e>g
+%Error : Bar 14 is 1/1 not 3/4
+|{ca}ag/2e/2 f/2d/2e/2f/2 g3
+f
+%Error : Bar 15 is 1/1 not 3/4
+|g>f``e>f d>g``e>d 
+%Error : Bar 16 is 1/1 not 3/4
+|d>ec<A d2 e<f
+%Error : Bar 17 is 1/1 not 3/4
+|{g}f>e (dc) B>A (G/2A/2B)
+%Error : Bar 18 is 1/1 not 3/4
+|c2 e2 e3/2f/4g/4| a2z
+d/2e/2 de/2f/2 gg
+%Error : Bar 20 is 1/1 not 3/4
+|(fa/2b/2) ef d2 (B/2c/2d)
+%Error : Bar 21 is 1/1 not 3/4
+|B>d```````fd (e/2f/2g/2a/2) g>e 
+%Error : Bar 22 is 1/1 not 3/4
+| dB```AG G2G2 
+%Error : Bar 23 is 1/1 not 3/4
+||
+P:B
+dB```AB g2 AB
+%Error : Bar 24 is 1/1 not 3/4
+|G2 TBG d>B```````e>g
+%Error : Bar 25 is 1/1 not 3/4
+|d>cBA B2 B2
+%Error : Bar 26 is 1/1 not 3/4
+|
+%Error : '\' in middle of line ignored
+d>^edB cAB \
+c
+%Error : Bar 27 is 1/1 not 3/4
+|B>G`````````F>D GABd
+%Error : Bar 28 is 1/1 not 3/4
+|g>f`ed cBAg
+%Error : Bar 29 is 1/1 not 3/4
+|fd`````B`G ABGE
+%Error : Bar 30 is 1/1 not 3/4
+|B2 BG G2 |]
+
+X:788
+T:Miss Maly Fareeel\'s Reel.
+M:C|
+L:1/8
+Q:1/2=104
+I::: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+A|d3 def gag
+%Error : Bar 1 is 9/8 not 2/2
+|f2d cAA
+%Error : Bar 2 is 3/4 not 2/2
+|Bcd efg 
+%Error : Bar 3 is 3/4 not 2/2
+|fdd d2
+d
+%Error : Bar 4 is 3/4 not 2/2
+|fdd faf 
+%Error : Bar 5 is 3/4 not 2/2
+|ged ecA
+%Error : Bar 6 is 3/4 not 2/2
+|d2d ABc
+%Error : Bar 7 is 3/4 not 2/2
+|d3 D2:|
+
+X:93
+T:The Pardol Whart.
+M:C
+L:1/8
+Q:1/2=96
+I::: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+M:4/4
+L:1/4
+I::: :: ::
+
+%Error : Field not allowed in tune body
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+D2 G>A B2G2 |{F}A2 dc Bc````Bc 
+%Error : Bar 1 is 2/1 not 4/4
+| B2 A2 {B}A2 A2
+%Error : Bar 2 is 2/1 not 4/4
+| d2 d>e d2 z2
+%Error : Bar 3 is 2/1 not 4/4
+|
+%Error : '\' in middle of line ignored
+\
+{e}d2 {c}B3/2A/4B/4 c2 d2 
+%Error : Bar 4 is 2/1 not 4/4
+|d3``d`cB A>G 
+%Error : Bar 5 is 2/1 not 4/4
+|
+%Error : '\' in middle of line ignored
+\
+(AB (cB) ({G}A4) 
+%Error : Bar 6 is 2/1 not 4/4
+| B2 B>B B2 z2 
+%Error : Bar 7 is 2/1 not 4/4
+|
+%Error : '\' in middle of line ignored
+\
+z2 d>B B2 d2
+%Error : Bar 8 is 2/1 not 4/4
+| B2 B>d B>A```A>c 
+%Error : Bar 9 is 2/1 not 4/4
+| B3 A A2 B :|
+z
+%Error : Bar 11 is 2/1 not 4/4
+|d<g``e<g a/2a/2 gfe
+%Error : Bar 12 is 2/1 not 4/4
+| f2 g2 (^de)ba/2b/2
+%Error : Bar 13 is 2/1 not 4/4
+|(gb/2a/2) {g}f2 {f}e2 d2 
+%Error : Bar 14 is 2/1 not 4/4
+| e3 e fef>f
+%Error : Bar 15 is 2/1 not 4/4
+|
+e2 Te2 {de}f2 ff 
+%Error : Bar 16 is 2/1 not 4/4
+| e2 e>g g2 z2
+%Error : Bar 17 is 2/1 not 4/4
+|
+%Error : '\' in middle of line ignored
+\
+g3d {d}c2 B>c
+%Error : Bar 18 is 2/1 not 4/4
+|{d}c3 B A2 
+%Error : Bar 19 is 3/2 not 4/4
+|]
+
+X:754
+T:Kitty Baurer.
+M:6/8
+L:1/8
+Q:3/8=96
+I::: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+G |G>AB {e}d2B|B>GB GdB|{B}A>GF GFE|DDG G3 |
+BGB B>cd|B>de dBG|TB>AF B>cd| efe Td2B|
+dgB B2G|gfe dBG |{B}AGB Bcd |efg gge |
+dBG G2G|g>bg Ta2f|a>ge edB |A>GA B2
+%Error : Bar 16 is 5/8 not 6/8
+|]
+
+X:1070
+T:Wattle My The mo\'s Aco thig and Wole.
+M:C
+L:1/8
+Q:1/4=120
+I:|| ||
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G Mixolydian
+A| D2A>G d<cd>A|B>AB>G B<ge>c|d>fA>d F<dg<f|
+%Error : '!' or '+' in middle of line ignored
+e>AB>G B2A:|
+f| e>dc>B Tc>AB>G|B>AB2 F<GE2|G>AG>F G>dB<g|f>af>e d3 
+%Warning : No repeat expected, found :|
+:|
+P:B
+g|TA>BA>a a>ba>g|d>Bg>A TB>AGA|B<GB>B A>GF>A| d2B>A B2B
+%Warning : No repeat expected, found :|
+:|
+
+X:23
+T:Al ord Jig
+N:seen Anmer cirst lrove that this pratt at the book
+M:C
+L:1/8
+Q:1/2=66
+N:treplerems the furst added to make the sisker
+I::: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+d/2c/2|B2B AGA
+%Error : Bar 1 is 3/4 not 4/4
+|B2G GFG
+%Error : Bar 2 is 3/4 not 4/4
+|AFD D2c
+%Error : Bar 3 is 3/4 not 4/4
+|Bcd efg
+%Error : Bar 4 is 3/4 not 4/4
+|
+B2G GEG
+%Error : Bar 5 is 3/4 not 4/4
+|Bcd GAG
+%Error : Bar 6 is 3/4 not 4/4
+| GAG GFG
+%Error : Bar 7 is 3/4 not 4/4
+|AFD D3 
+%Error : Bar 8 is 3/4 not 4/4
+|
+g2d Bde
+%Error : Bar 9 is 3/4 not 4/4
+|dBG GAB
+%Error : Bar 10 is 3/4 not 4/4
+|def gfe
+%Error : Bar 11 is 3/4 not 4/4
+|dBB d2:|
+f
+%Error : Bar 13 is 3/4 not 4/4
+|bdB gBg
+%Error : Bar 14 is 3/4 not 4/4
+|fcd g2B
+%Error : Bar 15 is 3/4 not 4/4
+|AGA dec
+%Error : Bar 16 is 3/4 not 4/4
+|BGB B2
+e
+%Error : Bar 17 is 3/4 not 4/4
+|dBd dBG
+%Error : Bar 18 is 3/4 not 4/4
+|eBe g2g
+%Error : Bar 19 is 3/4 not 4/4
+|beg fed
+%Error : Bar 20 is 3/4 not 4/4
+|(c/2B/2cA) A2
+e
+%Error : Bar 21 is 3/4 not 4/4
+|fdd efe
+%Error : Bar 22 is 3/4 not 4/4
+|dBG g2a
+%Error : Bar 23 is 3/4 not 4/4
+|bag a2f
+%Error : Bar 24 is 3/4 not 4/4
+|gag efd
+%Error : Bar 25 is 3/4 not 4/4
+|
+c2e e2e
+%Error : Bar 26 is 3/4 not 4/4
+|ecA egf
+%Error : Bar 27 is 3/4 not 4/4
+|efg dBG
+%Error : Bar 28 is 3/4 not 4/4
+|ABA A2
+%Warning : No repeat expected, found :|
+:|
+
+X:198
+T:My Lond\'s Word.
+M:C|
+L:1/8
+Q:1/2=104
+I:|| ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:A Minor
+z|
+%Error : '!' or '+' in middle of line ignored
+E3 B2A 
+%Error : Bar 1 is 3/4 not 2/2
+|G3 A3
+%Error : Bar 2 is 3/4 not 2/2
+| e2f g2f
+%Error : Bar 3 is 3/4 not 2/2
+| efd e2^d 
+%Error : Bar 4 is 3/4 not 2/2
+|ede e3 
+%Error : Bar 5 is 3/4 not 2/2
+|
+%Error : '\' in middle of line ignored
+\
+A2B c2B 
+%Error : Bar 6 is 3/4 not 2/2
+| A2B AFD 
+%Error : Bar 7 is 3/4 not 2/2
+|D3 E2
+%Error : Bar 8 is 5/8 not 2/2
+|]
+
+X:988
+T:Creat cambre.
+N:the Beirne to shorpland tine Ewr and wo-Dolidy.
+M:C
+L:1/8
+Q:1/4=92
+I::: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:A Mixolydian
+A/2G/2|(A/2B/2c/2d/2)`B A>FA 
+%Error : Bar 1 is 3/4 not 4/4
+|A2A A>AA
+%Error : Bar 2 is 3/4 not 4/4
+| e>ge d>Bg
+%Error : Bar 3 is 3/4 not 4/4
+| ded A2 :|
+f
+%Error : Bar 5 is 3/4 not 4/4
+|gfe d2B 
+%Error : Bar 6 is 3/4 not 4/4
+|e>fg a>fe
+%Error : Bar 7 is 3/4 not 4/4
+|(d3 e2)z/2f/2
+%Error : Bar 8 is 3/4 not 4/4
+|g>ed ced
+%Error : Bar 9 is 3/4 not 4/4
+| e>cB g2e
+%Error : Bar 10 is 3/4 not 4/4
+|
+aga (g/2a/2g)e
+%Error : Bar 11 is 3/4 not 4/4
+|(d/2e/2d).c (TBAB)
+%Error : Bar 12 is 3/4 not 4/4
+|B>cd (c/2B/2c).d
+%Error : Bar 13 is 3/4 not 4/4
+|e>AB A2
+%Warning : No repeat expected, found :|
+:|
+g
+%Error : Bar 15 is 3/4 not 4/4
+|Tagf g2 B
+%Error : Bar 16 is 3/4 not 4/4
+|(A/2B/2cA) dBG
+%Error : Bar 17 is 3/4 not 4/4
+|A>Bg ecA
+%Error : Bar 18 is 3/4 not 4/4
+|fdB (Taga)
+%Error : Bar 19 is 3/4 not 4/4
+|
+e>cA ABc
+%Error : Bar 20 is 3/4 not 4/4
+| ded Bgf
+%Error : Bar 21 is 3/4 not 4/4
+|edd gcB
+%Error : Bar 22 is 3/4 not 4/4
+|ABc d2
+g
+%Error : Bar 23 is 3/4 not 4/4
+| gag bfg 
+%Error : Bar 24 is 3/4 not 4/4
+|fed g>af
+%Error : Bar 25 is 3/4 not 4/4
+|efg a2a
+%Error : Bar 26 is 3/4 not 4/4
+| g>fg efe
+%Error : Bar 27 is 3/4 not 4/4
+|
+B<AB Td2B 
+%Error : Bar 28 is 3/4 not 4/4
+| e>fg fde 
+%Error : Bar 29 is 3/4 not 4/4
+|g>fg afe 
+%Error : Bar 30 is 3/4 not 4/4
+|dBG A2
+%Warning : No repeat expected, found :|
+:|
+
+X:525
+T:Lary Clivall.
+M:2/4
+L:1/16
+Q:1/4=96
+I:||
+N:initial repeat bar added
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+a|fd (f/2e/2d) A2AB|AF F/2G/2A TF2dA|Ad/2g/2 a>f efed| A>F<DF D2D:|
+g|fd a/2f/2g/2a/2 baaf |gege TfdBA|Tc2dc BABd|GGEF d2d
+%Warning : No repeat expected, found :|
+:|
+f |ecAc Bddc| dBeA Td2ec|dABd ecAA|dBAF D/2D/2D D
+%Error : Bar 14 is 7/16 not 2/4
+|]
+
+X:781
+T:The The Marry Grag.
+N:tully note is bar 3 are bar d4 in part is marces tails
+M:C|
+L:1/8
+Q:1/2=60
+I:||
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+d>cB>A B>AG>A|B>A D>E G>FG>d|G/2G/2G G>G F2 B>A|G>AB>c d2:|
+DG/2A/2|B>GBG dG G2|B<BBG A/2A/2A A2|B>d g/2f/2e/2d/2 cA A/2c/2B|B>ABG D2G
+%Warning : No repeat expected, found :|
+:|
+
+X:746
+T:Quick March 2tth Regt.
+M:6/8
+L:1/8
+Q:3/8=88
+I::: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:C
+a2 e>g (g>a)({g}a2) |c2 e>g {f}e2 d<B
+%Error : Bar 1 is 1/1 not 6/8
+|A2A>G A2 c>B
+%Error : Bar 2 is 1/1 not 6/8
+|A>Bc>A (d3 ::
+f/2g/2
+%Error : Bar 4 is 1/1 not 6/8
+|ad/2e/2 ef e2 Te2 
+%Error : Bar 5 is 1/1 not 6/8
+|
+%Error : '\' in middle of line ignored
+\
+e>c e/2f/2g/2f/2 e>de>f 
+%Error : Bar 6 is 1/1 not 6/8
+| dG (B/2c/2d/2B/2) cAA:|
+
+X:215
+T:The Gilt Vingin.
+M:6/8
+L:1/8
+Q:3/8=120
+I::: :: :: :: :: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+F2 |D2F2 A2F2
+%Error : Bar 1 is 1/1 not 6/8
+|E2GB B2AG
+%Error : Bar 2 is 1/1 not 6/8
+|FGAB c2 Bd
+%Error : Bar 3 is 1/1 not 6/8
+| A2A2 A2ef
+%Error : Bar 4 is 1/1 not 6/8
+|
+e3e fedc
+%Error : Bar 5 is 1/1 not 6/8
+|e2de e4 
+%Error : Bar 6 is 1/1 not 6/8
+|
+%Error : '\' in middle of line ignored
+
+%Error : Unrecognized character: '
+defg acfd
+%Error : Bar 7 is 1/1 not 6/8
+|e2ef e4 :|
+e3 f gfed
+%Error : Bar 9 is 2/1 not 6/8
+|efge d2BG
+%Error : Bar 10 is 1/1 not 6/8
+|FAdf ecec
+%Error : Bar 11 is 1/1 not 6/8
+|d2F2 A4 
+%Error : Bar 12 is 1/1 not 6/8
+|
+%Error : '\' in middle of line ignored
+\
+AFAA Bcde
+%Error : Bar 13 is 1/1 not 6/8
+|EFGA Bcde
+%Error : Bar 14 is 1/1 not 6/8
+|fgfe efge
+%Error : Bar 15 is 1/1 not 6/8
+|d4 D4
+%Warning : No repeat expected, found :|
+:|
+
+X:219
+T:Swaer dour Lardicg.
+T:The Greairen\'s Strathspey
+N:Janing Tite ap of the _-first double this in the work slute adduted.
+M:C
+L:1/8
+Q:1/2=66
+I::: ||
+N:rest added at the mish as printed |(c/d/e) AB B2 AF|
+Z:Jack Campin * www.campin.me.uk * 2009
+K:A Minor
+A/2B/2|c/2B/2A/2G/2 AF AEEG|F<AFD A/2A/2A Bc|d/2B/2A/2G/2 BB AFED|EDde fdd:|
+c|BGAB EFGE|ED F/2E/2E/2E/2 dEFD |EAEG FDFD |G>ABA B/2B/2B B
+%Warning : No repeat expected, found :|
+:|
+e| fAfg feed|ddef e/2c/2A/2e/2 ec|BcdB eedB|ddeg f/2d/2d d
+f|dded fBAf|ge (a/2g/2f/2g/2) afdB|gfeg ddeg|faag faef |
+f/2g/2a ec AAef|dfdB AcBA|BG E/2E/2E E2ce|AcdB A/2A/2A A
+%Warning : No repeat expected, found :|
+:|
+
+X:8
+T:Coltw Vunlist.
+M:C
+L:1/8
+Q:1/2=108
+I::: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:C
+g3|(gfe).d (cB).d.d|(Bcd).e (dc).B.c|(Ag).f.e (de).d.B|(Gc).c.G (ce).g.e|
+E2Bc efge | gfed (cB)(AG)| B4 e2fg|(afd).c d2A2|
+(agf).e (Tedc).e| d2B2 B2(Ac)|B2A2 B2AB|A2G2 A4 :|
+
+X:419
+T:Bomber a\'s Donker the Bowh.
+M:C
+L:1/8
+Q:1/2=96
+I::| :|
+Z:Jack Campin * www.campin.me.uk * 2009
+K:A Mixolydian
+c|d>ef.d/2.d/2 AAFA|G>BG>B c>BA<d|G>GB>G B/2c/2d/2B/2 Ae |dB B/2A/2B/2c/2 dBA:|
+e|e<ec>e eAAc |B>dcB Bdgf/2g/2|a>fgf ed``c(g/2e/2)|d>Bc>B A/2A/2A A
+%Error : Bar 9 is 7/8 not 4/4
+||
+e
+%Error : Bar 10 is 1/8 not 4/4
+|e>cce (e/2f/2g) ed|c/2B/2A/2G/2 AA A>Ade|fddb a/2e/2f e/2d/2c/2B/2|A>ABA A2A
+%Warning : No repeat expected, found :|
+:|
+
+X:611
+T:Scosdish of Skervineitar\'s March.
+M:C
+L:1/8
+Q:1/2=60
+I::: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+g2f2 e2A2|B4 A2dc|BGBd B2d2|e3 f g2A2:|
+fedB AGFE|cBAG FAFD|E2FG A2F2|g2fg e2d2|
+d2d2 D2d2|cBAB B2c2|d2e2 d2A2|B2d4 
+%Warning : No repeat expected, found :|
+:|
+
+X:99
+T:Laty Charloot Dencide.
+M:2/4
+L:1/8
+Q:1/4=100
+I::: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+D2|G2d>d d2g>e
+%Error : Bar 1 is 1/1 not 2/4
+|d>cB>G A2A>B
+%Error : Bar 2 is 1/1 not 2/4
+| A4 d4 
+%Error : Bar 3 is 1/1 not 2/4
+|A>Bc>d {d}c2e>f
+%Error : Bar 4 is 1/1 not 2/4
+| A2E2 G4 :|
+g>agb a2d>e
+%Error : Bar 6 is 2/1 not 2/4
+|d<BG>A B>cd>e
+%Error : Bar 7 is 1/1 not 2/4
+|Td2 B>g e>dB>G
+%Error : Bar 8 is 1/1 not 2/4
+|d2(e/2f/2g) d2 g2
+%Error : Bar 9 is 1/1 not 2/4
+|
+d>BG>G A>AA>e
+%Error : Bar 10 is 1/1 not 2/4
+|G>BG>B de``f>e
+%Error : Bar 11 is 1/1 not 2/4
+|d<dc<B A>GA>B
+%Error : Bar 12 is 1/1 not 2/4
+|G>Ag>B A2G>E
+%Error : Bar 13 is 1/1 not 2/4
+|
+g>edc B2 dB
+%Error : Bar 14 is 1/1 not 2/4
+|c>eA>g e2g2
+%Error : Bar 15 is 1/1 not 2/4
+|d>gd<B c<AA>g
+%Error : Bar 16 is 1/1 not 2/4
+|e<cg>e d2G2
+%Error : Bar 17 is 1/1 not 2/4
+|]
+
+X:149
+T:Less Highland Reel.
+N:from Jarn Macglashan, 1798 are a 3re, mran.
+M:6/8
+L:1/8
+Q:3/8=120
+I::: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:A Dorian
+f|A<AA>B A4 
+%Error : Bar 1 is 1/1 not 6/8
+|F<AA>G A2 TB>A
+%Error : Bar 2 is 1/1 not 6/8
+|F<ED>F G>FE>D
+%Error : Bar 3 is 1/1 not 6/8
+|E>ED>E E2E>D:|
+A<cg<e g>ga>d
+%Error : Bar 5 is 2/1 not 6/8
+|fd`a>g a>de>e
+%Error : Bar 6 is 1/1 not 6/8
+|f>g```````e>d cA``f>d
+%Error : Bar 7 is 1/1 not 6/8
+|e>cdB B/2A/2B B2
+%Warning : No repeat expected, found :|
+:|
+
+X:1003
+T:Almrish A daver.
+T:Wife\'s Falewell
+N:O semr Grote Hughland Will\'s Callon Arrle
+N:opich is be is a doueled bar a sets to befot the 3 Ole addemtated
+M:2/4
+L:1/16
+Q:1/4=100
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+G2GB dBGB|AGAB cABe|dBdB GABG|cAAF G2G)
+%Error : Bar 3 is 7/16 not 2/4
+|
+g
+%Error : Bar 4 is 1/16 not 2/4
+|dgbb ecAf|g2dc gaeg|gcBd eBcA|G2BG G2B2 |
+gfge dgfd|edBG A2A2|BdGB d>efg|abag fdcA|]
+
+X:608
+T:The Teising Skide.
+M:C
+L:1/8
+Q:1/2=104
+I:||
+N:bar 10 is printed |Bced cBAd|
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+a|fdf
+%Error : Bar 1 is 3/8 not 4/4
+|abf
+%Error : Bar 2 is 3/8 not 4/4
+|geg 
+%Error : Bar 3 is 3/8 not 4/4
+|bga
+%Error : Bar 4 is 3/8 not 4/4
+|f2e
+%Error : Bar 5 is 3/8 not 4/4
+|cAA
+%Error : Bar 6 is 3/8 not 4/4
+|BdB
+%Error : Bar 7 is 3/8 not 4/4
+|aef
+%Error : Bar 8 is 3/8 not 4/4
+|d2d:|
+a2a
+%Error : Bar 10 is 3/4 not 4/4
+|gag
+%Error : Bar 11 is 3/8 not 4/4
+|fed
+%Error : Bar 12 is 3/8 not 4/4
+|e2d
+%Error : Bar 13 is 3/8 not 4/4
+|fae
+%Error : Bar 14 is 3/8 not 4/4
+|dcd
+%Error : Bar 15 is 3/8 not 4/4
+|fed
+%Error : Bar 16 is 3/8 not 4/4
+|cce
+%Error : Bar 17 is 3/8 not 4/4
+|cAA
+%Error : Bar 18 is 3/8 not 4/4
+|f2f 
+%Error : Bar 19 is 3/8 not 4/4
+|
+afd
+%Error : Bar 20 is 3/8 not 4/4
+|efa
+%Error : Bar 21 is 3/8 not 4/4
+|agf
+%Error : Bar 22 is 3/8 not 4/4
+|{f}e2(c/2d/2)
+%Error : Bar 23 is 3/8 not 4/4
+|ecA
+%Error : Bar 24 is 3/8 not 4/4
+|GdB
+%Error : Bar 25 is 3/8 not 4/4
+|edc
+%Error : Bar 26 is 3/8 not 4/4
+|d3 
+%Warning : No repeat expected, found :|
+:|
+
+X:113
+T:Juttond Reel e\'s the State.
+M:C|
+L:1/8
+Q:1/2=104
+I::: :: :: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:A Minor
+B|GGEE EGAB|AAAe cdeA|d2BG FADB|GAB^c d2e:|
+e|ceef geba|bgge dgBd|cAAF G2GE|gdef dBAg|]
+
+X:506
+T:The Wyarler.
+M:C
+L:1/8
+Q:1/2=96
+I::: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+D |F2 A>F D2 F>A|Bd`de fd cB/2A/2|B2 dc/2B/2 AB`EF |G2 A>B A2 ::
+ec|c>A c/2d/2e/2f/2 geec| e>f```````d>d B>A F/2D/2F/2A/2|A>Bf>f f/2e/2d/2c/2 d>A|
+%Error : '\' in middle of line ignored
+\
+A(f/2e/2) f>e d>Bd>f|ed`ec d3 d |(c/2B/2A/2G/2) FA B>Ad:|
+
+X:1019
+T:Down Castle.
+M:C
+L:1/8
+Q:1/2=96
+I::: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+ded d2d|e2e e3 
+%Error : Bar 1 is 3/4 not 4/4
+|cdc d3
+%Error : Bar 2 is 3/4 not 4/4
+|gec d3:|
+fed e2g
+%Error : Bar 4 is 3/2 not 4/4
+|f2d e2c
+%Error : Bar 5 is 3/4 not 4/4
+|d2A FED
+%Error : Bar 6 is 3/4 not 4/4
+|F2D FDD
+%Error : Bar 7 is 3/4 not 4/4
+|
+D2F A2d
+%Error : Bar 8 is 3/4 not 4/4
+|d2d g2g
+%Error : Bar 9 is 3/4 not 4/4
+|afd ddB
+%Error : Bar 10 is 3/4 not 4/4
+|AAF DFE
+%Warning : No repeat expected, found :|
+:|
+
+X:134
+T:Raty Rotar\'s Air.
+T:A ver Peon.
+M:C
+L:1/16
+Q:1/4=104
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+E|DDD DDF
+%Error : Bar 1 is 3/8 not 4/4
+|Afa fdc
+%Error : Bar 2 is 3/8 not 4/4
+|d2d BdB
+%Error : Bar 3 is 3/8 not 4/4
+| ABc d2:|
+e
+%Error : Bar 5 is 3/8 not 4/4
+|fdf afd
+%Error : Bar 6 is 3/8 not 4/4
+|g2e dBG
+%Error : Bar 7 is 3/8 not 4/4
+|fdf fdd
+%Error : Bar 8 is 3/8 not 4/4
+|egd e2e
+%Error : Bar 9 is 3/8 not 4/4
+|
+fef ege
+%Error : Bar 10 is 3/8 not 4/4
+|fga gfe
+%Error : Bar 11 is 3/8 not 4/4
+|dcB d2d
+%Error : Bar 12 is 3/8 not 4/4
+|ecA A2
+%Warning : No repeat expected, found :|
+:|
+g
+%Error : Bar 14 is 3/8 not 4/4
+|f2f d2c
+%Error : Bar 15 is 3/8 not 4/4
+|dfg d2c
+%Error : Bar 16 is 3/8 not 4/4
+|BdB AGF
+%Error : Bar 17 is 3/8 not 4/4
+|cB E Ade
+%Warning : No repeat expected, found :|
+:|
+d2d fed
+%Error : Bar 19 is 3/4 not 4/4
+|BAB cBA
+%Error : Bar 20 is 3/8 not 4/4
+|Bcd efg
+%Error : Bar 21 is 3/8 not 4/4
+|faf d2 
+%Error : Bar 22 is 5/16 not 4/4
+|]
+
+X:508
+T:Miss Campbell of Oubhies\'s Reel.
+N:first part printed at the book [in the forst to mary
+N:Trithet of the 5esumunde sipiol cligans wuth the sfart of the 1450 Tancing
+M:C
+L:1/8
+Q:1/2=66
+I::: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:A
+A|A<ATA>F E>D`A>B|c>Ad>B {B}AGAF | E>ED>F D/2D/2D D:|
+f|a<a b/2a/2g/2f/2 ed Tc2 |e<d e>d de/2f/2 d>e |
+d/2e/2f/2d/2 dd {g}f/2e/2f/2g/2 a>f | g>f`````````f>e Hd2 dt 
+g>a
+%Error : Bar 8 is 9/8 not 4/4
+|b>af>d e/2f/2e f>e|de/2d/2 fe/2f/2 eA/2d/2 (TB2 e)) 
+%Error : Bar 10 is 9/8 not 4/4
+|
+
+%Error : '\' in middle of line ignored
+
+%Error : Unrecognized character: '
+
+%Error : Unrecognized character: 2
+g>b {ga}b>a ab d
+%Error : Bar 11 is 7/8 not 4/4
+| g<f````````ab ga b/2a/2g/2f/2|
+%Error : '!' or '+' in middle of line ignored
+
+%Error : '\' in middle of line ignored
+\
+(da/2b/2) fg/2a/2 bg fd/2f/2 |
+a>g b/2a/2g/2f/2 gf/2e/2 g/2a/2g/2f/2 |
+%Error : '\' in middle of line ignored
+\
+fd B/2A/2A/2F/2 {G}E3 
+%Warning : No repeat expected, found :|
+:|
+
+X:729
+T:Mrs Cettie.
+M:6/8
+L:1/8
+Q:3/8=132
+I::: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+B |A>FAF TD3 A 
+%Error : Bar 1 is 1/1 not 6/8
+|B>cAF/2G/2 EEDc
+%Error : Bar 2 is 1/1 not 6/8
+|BG F/2A/2B d>AFD 
+%Error : Bar 3 is 1/1 not 6/8
+| E2 E2 D3:|
+e
+%Error : Bar 5 is 1/1 not 6/8
+|fddf eBea
+%Error : Bar 6 is 1/1 not 6/8
+|afd2 BddB 
+%Error : Bar 7 is 1/1 not 6/8
+|d>AF>A dAdF 
+%Error : Bar 8 is 1/1 not 6/8
+|D2 e>f g2ef 
+%Error : Bar 9 is 1/1 not 6/8
+|
+a<fa>b d>ab>d
+%Error : Bar 10 is 1/1 not 6/8
+|g>ef>d e>fa) f/2e/2 
+%Error : Bar 11 is 1/1 not 6/8
+|d>B Ad/2c/2 dDDF
+%Warning : No repeat expected, found :|
+:|
+
+X:267
+T:Weartleo.
+N:vers of mackouding 1sth century; "Y. (surking To Silled Gon of John MacGiagocd" Wigh a do mathe Couple siblen
+M:C
+L:1/8
+Q:1/4=120
+I::| ||
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+P:A
+B3 c3 | G3 D2 d
+%Error : Bar 1 is 3/4 not 4/4
+|(B/2c/2d)B G2d 
+%Error : Bar 2 is 3/4 not 4/4
+|({c}B2)A G>AB
+%Error : Bar 3 is 3/4 not 4/4
+|B2B A3 
+%Error : Bar 4 is 3/4 not 4/4
+|
+e2c (cB)(A)
+%Error : Bar 5 is 3/4 not 4/4
+| G2 B d2Tc 
+%Error : Bar 6 is 3/4 not 4/4
+| B2g dcB 
+%Error : Bar 7 is 3/4 not 4/4
+| A3 G2:|
+P:B
+
+%Error : Bar 9 is 5/8 not 4/4
+| g
+%Error : Bar 10 is 1/8 not 4/4
+|fba baf 
+%Error : Bar 11 is 3/4 not 4/4
+| gfg agf 
+%Error : Bar 12 is 3/4 not 4/4
+| ede edB 
+%Error : Bar 13 is 3/4 not 4/4
+| AGG E2 
+%Warning : No repeat expected, found :|
+:|
+
+X:57
+T:Ap Bavourite Dill.
+M:2/4
+L:1/16
+Q:1/4=120
+I::: :: :: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+AF |F3A A3 d| B2 dB A3 f| e>fge f2d2|AFD>E D2 ::
+a>b| aa/2a/2 a>g a2 de |a/2f/2e/2d/2 cA e2e>f| Tfe dd/2e/2 fddd |
+%Error : '\' in middle of line ignored
+\
+fed>d ecce| df/2g/2 af {g}a3 b | ga/2g/2 fe c/2A/2A e2|
+f>e d/2e/2f/2g/2 a>df>a|ge f/2e/2d/2c/2 d3z|
+%Error : '\' in middle of line ignored
+\
+f2d>f gdeb |fadf gAba |{g}fe/2d/2 c>e fdfe|d2 d>d d2 d
+%Error : Bar 17 is 7/16 not 2/4
+|]
+
+X:925
+T:The Wooton Scottuse\'s Reel.
+N:Brod Jase Maschamed\'s Favourite Burnian of Faybing"
+M:2/4
+L:1/16
+Q:1/4=120
+I::: ||
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+P:A
+dfdg agfg|
+%Error : '\' in middle of line ignored
+
+%Error : Unrecognized character: '
+daa=f adab|
+%Error : '\' in middle of line ignored
+
+%Error : Unrecognized character: '
+
+%Error : '\' in middle of line ignored
+
+%Error : Unrecognized character: '
+cfac adag|ad g/2a/2a bade|fda>g f>dd
+%Error : Bar 4 is 7/16 not 2/4
+|]
+
+X:846
+T:The Dutss of the Bentle.
+M:6/8
+L:1/8
+Q:3/8=120
+I::: ||
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+g| f/2g/2a bg d2dB
+%Error : Bar 1 is 1/1 not 6/8
+|e2dc BAAG
+%Error : Bar 2 is 1/1 not 6/8
+|BAdB g/2f/2e/2d/2 gf
+%Error : Bar 3 is 1/1 not 6/8
+|gdcB A2G2:|
+gfed edcB
+%Error : Bar 5 is 2/1 not 6/8
+|ceAc BGgB
+%Error : Bar 6 is 1/1 not 6/8
+|ceAB AGFA
+%Error : Bar 7 is 1/1 not 6/8
+|GEGE D/2G/2G G2
+%Warning : No repeat expected, found :|
+:|
+
+X:283
+T:Cillolt.
+C:Irish.
+N:initial rest added to second part ard printed as c3 in the end
+M:C
+L:1/8
+Q:1/2=104
+I::: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:C
+EGG|Acc 
+%Error : Bar 1 is 3/8 not 4/4
+| e2E 
+%Error : Bar 2 is 3/8 not 4/4
+|gfe
+%Error : Bar 3 is 3/8 not 4/4
+|d2c
+%Error : Bar 4 is 3/8 not 4/4
+|c2c 
+%Error : Bar 5 is 3/8 not 4/4
+| E2A
+%Error : Bar 6 is 3/8 not 4/4
+|cAc 
+%Error : Bar 7 is 3/8 not 4/4
+|BBd
+%Error : Bar 8 is 3/8 not 4/4
+|
+GAG
+%Error : Bar 9 is 3/8 not 4/4
+| GdB 
+%Error : Bar 10 is 3/8 not 4/4
+| cec 
+%Error : Bar 11 is 3/8 not 4/4
+|dcB
+%Error : Bar 12 is 3/8 not 4/4
+|AFF
+%Error : Bar 13 is 3/8 not 4/4
+| [1 G3:|
+%Error : '\' in middle of line ignored
+\
+ [2 c4 
+%Error : Bar 15 is 7/8 not 4/4
+|
+A2B
+%Error : Bar 16 is 3/8 not 4/4
+|c2B
+%Error : Bar 17 is 3/8 not 4/4
+|c2c
+%Error : Bar 18 is 3/8 not 4/4
+| d2c
+%Error : Bar 19 is 3/8 not 4/4
+|B2A
+%Error : Bar 20 is 3/8 not 4/4
+|G2(G/2A/2)
+%Error : Bar 21 is 3/8 not 4/4
+|(d/2c/2B/2A/2).B/2.A/2
+%Error : Bar 22 is 3/8 not 4/4
+|d3 
+%Error : Bar 23 is 3/8 not 4/4
+|
+z2d
+%Error : Bar 24 is 3/8 not 4/4
+|gfe
+%Error : Bar 25 is 3/8 not 4/4
+|d/2c/2B3/2A/2
+%Error : Bar 26 is 3/8 not 4/4
+|g2e
+%Error : Bar 27 is 3/8 not 4/4
+| dB````B 
+%Error : Bar 28 is 3/8 not 4/4
+|(c/2d/2e/2f/2)(g/2B/2)
+%Error : Bar 29 is 3/8 not 4/4
+|c2 B
+%Error : Bar 30 is 3/8 not 4/4
+|A2{cB}A
+%Error : Bar 31 is 3/8 not 4/4
+|{B}c4 
+%Warning : No repeat expected, found :|
+:|
+
+X:1102
+T:Hights of Alleyend.
+M:C
+L:1/8
+Q:1/4=76
+I::| :: :: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+P:A
+A2d>B|A<FA>B
+%Error : Bar 1 is 1/2 not 4/4
+|A2de
+%Error : Bar 2 is 1/2 not 4/4
+|f2 A2 
+%Error : Bar 3 is 1/2 not 4/4
+|A2B2
+%Error : Bar 4 is 1/2 not 4/4
+|A2d>c
+%Error : Bar 5 is 1/2 not 4/4
+|A2F>A
+%Error : Bar 6 is 1/2 not 4/4
+|A2A>B
+%Error : Bar 7 is 1/2 not 4/4
+|
+{e}d2 Bd
+%Error : Bar 8 is 1/2 not 4/4
+|e2 e2 
+%Error : Bar 9 is 1/2 not 4/4
+|a2(fd)
+%Error : Bar 10 is 1/2 not 4/4
+|(gg)bg
+%Error : Bar 11 is 1/2 not 4/4
+|a2 ef
+%Error : Bar 12 is 1/2 not 4/4
+|f3 d 
+%Error : Bar 13 is 1/2 not 4/4
+|e2 ee
+%Error : Bar 14 is 1/2 not 4/4
+|f2 e2 
+%Error : Bar 15 is 1/2 not 4/4
+|
+FD DA
+%Error : Bar 16 is 1/2 not 4/4
+|B2G2
+%Error : Bar 17 is 1/2 not 4/4
+|F2 A2
+%Error : Bar 18 is 1/2 not 4/4
+|d2d2
+%Error : Bar 19 is 1/2 not 4/4
+|A2 Bd
+%Error : Bar 20 is 1/2 not 4/4
+|e2eg
+%Error : Bar 21 is 1/2 not 4/4
+|e>fgB 
+%Error : Bar 22 is 1/2 not 4/4
+|c2 A2
+%Error : Bar 23 is 1/2 not 4/4
+|F2B>c
+%Error : Bar 24 is 1/2 not 4/4
+|d3
+%Error : Bar 25 is 3/8 not 4/4
+|]
+
+X:1191
+T:The Carly
+C:Irish.
+M:6/8
+L:1/8
+Q:3/8=120
+I:(1) :| (2) :: DC % Aird prints a da capo
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+A|BGBG BAdB
+%Error : Bar 1 is 1/1 not 6/8
+|GBgd dBBd
+%Error : Bar 2 is 1/1 not 6/8
+|gefd ceea
+%Error : Bar 3 is 1/1 not 6/8
+|BgAf g/2d/2B/2A/2 G2:|
+gdgb dggd
+%Error : Bar 5 is 2/1 not 6/8
+|gedc BdgB
+%Error : Bar 6 is 1/1 not 6/8
+|ceAB GdAG
+%Error : Bar 7 is 1/1 not 6/8
+|BGBd geg
+%Error : Bar 8 is 7/8 not 6/8
+|]
+
+X:1002
+T:Dowbertneirg march.
+M:C
+L:1/8
+Q:1/2=104
+I::: ||
+Z:Jack Campin * www.campin.me.uk * 2009
+K:F
+d/2c/2|d2e fdB
+%Error : Bar 1 is 3/4 not 4/4
+|c2c edc 
+%Error : Bar 2 is 3/4 not 4/4
+|
+%Error : '\' in middle of line ignored
+\
+d3 c2A
+%Error : Bar 3 is 3/4 not 4/4
+|G2D EdF 
+%Error : Bar 4 is 3/4 not 4/4
+|E2D FDE
+%Error : Bar 5 is 3/4 not 4/4
+|DAF E2:|
+D
+%Error : Bar 7 is 3/4 not 4/4
+|B2G BcB
+%Error : Bar 8 is 3/4 not 4/4
+|cBA B2A
+%Error : Bar 9 is 3/4 not 4/4
+|d2f fed
+%Error : Bar 10 is 3/4 not 4/4
+|c2c B2c
+%Error : Bar 11 is 3/4 not 4/4
+|
+d2A B2A
+%Error : Bar 12 is 3/4 not 4/4
+| GAB dBG
+%Error : Bar 13 is 3/4 not 4/4
+|Adc dcd
+%Error : Bar 14 is 3/4 not 4/4
+|BcA F3 
+%Error : Bar 15 is 3/4 not 4/4
+|
+A2A ABc
+%Error : Bar 16 is 3/4 not 4/4
+|Bcd def
+%Error : Bar 17 is 3/4 not 4/4
+|def Bcd
+%Error : Bar 18 is 3/4 not 4/4
+|e2c B2
+e
+%Error : Bar 19 is 3/4 not 4/4
+|dcd egd
+%Error : Bar 20 is 3/4 not 4/4
+|c2A g2g
+%Error : Bar 21 is 3/4 not 4/4
+|f2f edc
+%Error : Bar 22 is 3/4 not 4/4
+|d2d d2
+%Warning : No repeat expected, found :|
+:|
+
+X:849
+T:A Rock Steunt of Scocsation\'s Reel.
+T:A Strathspey.
+M:C
+L:1/8
+Q:1/4=120
+I::: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:A Dorian
+G|c2 B2 c2 B2|e2 e2 e2 dB| c2 c3 d e2 dB 
+%Error : Bar 3 is 5/4 not 4/4
+| AA``BF G2(E>F)|
+%Error : '\' in middle of line ignored
+\
+A2 c>A (AB)(ed)|(cd)(ef) f2 B2 |(AB)(cB) (cB)(AF)|{F}E4 E2 ::
+e2 |d2g2 (f>g)(ag)|e2 e2 e2 Te4 
+%Error : Bar 11 is 5/4 not 4/4
+| d3 A d2 g2 | d2 B<B d2
+g>d|e2g>a g2(a/2f/2a)|e4 e2 d2 | e2{gf}Te{de}f d3 ^d |e2 e2 e2A2 |
+e2 A>c c3 d | e2 e>e e2 d>f| e>de>f Te2 Td>c|B2 B>A B2 :|
+AB``cd e2 A<A
+%Error : Bar 22 is 7/4 not 4/4
+|G2 E>B G2 
+%Error : Bar 23 is 3/4 not 4/4
+|]
+
+X:1022
+T:Farey of Wicklon\'s Strathspey.
+M:C|
+L:1/8
+Q:1/4=120
+I::: ||
+N:bar 8 printed as |eA dBA  B>A|
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+f2 AB|d2 dc
+%Error : Bar 1 is 1/2 not 2/2
+|B2 d3/2e/4f/4
+%Error : Bar 2 is 1/2 not 2/2
+|f2 e2
+%Error : Bar 3 is 1/2 not 2/2
+|f2 ff
+%Error : Bar 4 is 1/2 not 2/2
+|A2 A2
+%Error : Bar 5 is 1/2 not 2/2
+|
+GA
+%Error : Bar 6 is 1/4 not 2/2
+|GA Bd 
+%Error : Bar 7 is 1/2 not 2/2
+| Ac dc
+%Error : Bar 8 is 1/2 not 2/2
+| d2 d2
+%Error : Bar 9 is 1/2 not 2/2
+|ed`````````dc 
+%Error : Bar 10 is 1/2 not 2/2
+| d4 :|
+d2 f2|{e}d2 cB
+%Error : Bar 13 is 1/2 not 2/2
+| A3 B
+%Error : Bar 14 is 1/2 not 2/2
+| c3 B 
+%Error : Bar 15 is 1/2 not 2/2
+|AD````````FD
+%Error : Bar 16 is 1/2 not 2/2
+| E2
+%Warning : No repeat expected, found :|
+:|
+Ac
+%Error : Bar 18 is 1/2 not 2/2
+|de```fg
+%Error : Bar 19 is 1/2 not 2/2
+| aa g2 
+%Error : Bar 20 is 1/2 not 2/2
+|fe`dc
+%Error : Bar 21 is 1/2 not 2/2
+| d2 Dd
+%Warning : No repeat expected, found :|
+:|
+
+X:735
+T:The Fonk Hush.
+M:C
+L:1/8
+Q:1/2=104
+I::: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:A Mixolydian
+e |eAeA BaBc|ABcc B2AA|dBeB fAde|ceee cAA
+%Error : Bar 4 is 7/8 not 4/4
+|]
+B
+%Error : Bar 5 is 1/8 not 4/4
+|Acce feec|dfec dfec|d2Bd ecA^G|ABcA B4:|
+e2Ac aeee|eg^ce gBeG|A2ce BeeB | cAAe (A/2B/2)c A
+%Warning : No repeat expected, found :|
+:|
+
+X:160
+T:The Lune of Willy.
+M:C
+L:1/8
+Q:1/2=104
+I:||
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+B/2c/2|d>edc B2AG |GFEF E2EF|Ede>c dBcB |
+%Error : '\' in middle of line ignored
+AGFG A3 \
+B/2c/2|dBGG GBdd|dgga gfed|g2d2 cBAG |AcBc d2
+dg|f2dg d2ga|
+%Error : '\' in middle of line ignored
+
+%Error : Unrecognized character: '
+
+%Error : '\' in middle of line ignored
+
+%Error : Unrecognized character: '
+bgac b2db|agab a2d2 |de2d c2BA|
+%Error : '\' in middle of line ignored
+\
+
+%Error : '\' in middle of line ignored
+
+%Error : Unrecognized character: '
+(dB)(gb) bbac |b2b2 (ag).e(f|g2a2) g2:|
+
+X:216
+T:Rei\'et Charling.
+M:2/4
+L:1/8
+Q:1/4=104
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+G3 B2 |dBGB |({c}B4) |AGB4
+%Error : Bar 3 is 3/4 not 2/4
+|
+%Error : '\' in middle of line ignored
+\
+cd BA|z2 B>c |{e}d4 |ge` cB |G4|]
+
+X:766
+T:The Roinlan wille.
+M:C|
+L:1/8
+Q:1/2=104
+I::: ||
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+|ddcA 
+%Error : Bar 1 is 1/2 not 2/2
+|FGdF
+%Error : Bar 2 is 1/2 not 2/2
+|GFGB
+%Error : Bar 3 is 1/2 not 2/2
+|cAEF
+%Error : Bar 4 is 1/2 not 2/2
+|A2DB
+%Error : Bar 5 is 1/2 not 2/2
+|defa
+%Error : Bar 6 is 1/2 not 2/2
+| gfed
+%Error : Bar 7 is 1/2 not 2/2
+| cBcB 
+%Error : Bar 8 is 1/2 not 2/2
+|A2DHF
+%Error : Bar 9 is 1/2 not 2/2
+||
+fdfd
+%Error : Bar 10 is 1/2 not 2/2
+|BBAd
+%Error : Bar 11 is 1/2 not 2/2
+| fAAf 
+%Error : Bar 12 is 1/2 not 2/2
+|eege
+%Error : Bar 13 is 1/2 not 2/2
+|fdgf 
+%Error : Bar 14 is 1/2 not 2/2
+|e/2d/2c/2B/2 A2 
+%Error : Bar 15 is 1/2 not 2/2
+|
+dfed
+%Error : Bar 16 is 1/2 not 2/2
+|dBAg
+%Error : Bar 17 is 1/2 not 2/2
+|fade
+%Error : Bar 18 is 1/2 not 2/2
+|fedc
+%Error : Bar 19 is 1/2 not 2/2
+|dfAf 
+%Error : Bar 20 is 1/2 not 2/2
+|d2c2 
+%Error : Bar 21 is 1/2 not 2/2
+||
+agfe 
+%Error : Bar 22 is 1/2 not 2/2
+|f2df
+%Error : Bar 23 is 1/2 not 2/2
+|gabg
+%Error : Bar 24 is 1/2 not 2/2
+|aa=ba
+%Error : Bar 25 is 1/2 not 2/2
+|g/2e/2f/2g/2 a/2g/2f/2e/2
+%Error : Bar 26 is 1/2 not 2/2
+|ddd2 
+%Error : Bar 27 is 1/2 not 2/2
+|
+fedf 
+%Error : Bar 28 is 1/2 not 2/2
+|edde
+%Error : Bar 29 is 1/2 not 2/2
+|dcde
+%Error : Bar 30 is 1/2 not 2/2
+| fdeb
+%Error : Bar 31 is 1/2 not 2/2
+|a>baf
+%Error : Bar 32 is 1/2 not 2/2
+| e>def 
+%Error : Bar 33 is 1/2 not 2/2
+|g2 [1 D2 
+%Error : Bar 34 is 1/2 not 2/2
+|
+%Error : '\' in middle of line ignored
+\
+(ded)G
+%Error : Bar 35 is 1/2 not 2/2
+|FAd2 
+%Error : Bar 36 is 1/2 not 2/2
+|fgfe 
+%Error : Bar 37 is 1/2 not 2/2
+|fefd 
+%Error : Bar 38 is 1/2 not 2/2
+|eG Bd/2c/2
+%Error : Bar 39 is 1/2 not 2/2
+| d2 D2
+%Error : Bar 40 is 1/2 not 2/2
+||
+
+X:941
+T:The Idish Danca.
+M:C|
+L:1/8
+Q:1/4=120
+I::: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+P:A
+B|G/2G/2G Bd TA2 GG| BABd e2TA2|(G/2B/2d) BG gdAB|g2g2  [1 g2g :|
+G2 g>e dBAg
+%Error : Bar 5 is 15/8 not 2/2
+|Teged e/2e/2e dB| AAGA BdG
+%Warning : No repeat expected, found :|
+:|
+
+X:472
+T:Miss Maris\'s Night nome the Gomesd.
+N:Onagowans in the book 2ith to a the Wrotuans of the )ast outer after first part 
+M:2/4
+L:1/8
+Q:1/4=96
+I::: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+P:A
+F2 F2 |F2 EA |B3A| G2 GG |A2 Bc|d2 A2| d4 |
+%Error : '\' in middle of line ignored
+\
+AB/2A/2 GF| D3 d |BdBG |AFDF |G3
+f |A2 FG| AF``````EF | B3 c |
+%Error : '\' in middle of line ignored
+d2 \
+(ed)|(d2(de) | f^e````dc |d2 d 
+%Error : Bar 18 is 3/8 not 2/4
+|]
+
+X:494
+T:The nopredd O Ripine.
+M:9/8
+L:1/8
+Q:3/8=120
+I::: ||
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D Mixolydian % Marione dent not at Gottile
+d2af g2ag|fdad cBAe
+%Error : Bar 1 is 1/1 not 9/8
+|dBGB ggag
+%Error : Bar 2 is 1/1 not 9/8
+|fedd B2B:|
+e
+%Error : Bar 4 is 1/1 not 9/8
+|gegf geBc
+%Error : Bar 5 is 1/1 not 9/8
+|dBAB GBBg
+%Error : Bar 6 is 1/1 not 9/8
+|f2ff d2ee 
+%Error : Bar 7 is 1/1 not 9/8
+|dBGB BGG
+%Warning : No repeat expected, found :|
+:|
+
+X:943
+T:Dench. Lish of Briqerout.
+M:C
+L:1/8
+Q:1/4=96
+I::: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+F3 F A2B2|
+%Error : '\' in middle of line ignored
+A2 de d4 \
+AGBA G3 F
+%Error : Bar 1 is 2/1 not 4/4
+| G3 E G2 A2 | FBcA F4 |d2d2 e3 g|
+f4 g2ed|c2d>c A4 |F2F2 F2d2|c2B2 A2AG|F2A2 ABcd|=c2 BA D2z2:|
+
+X:953
+T:Quick Step 40sh. Regt.
+M:C
+L:1/8
+Q:1/4=84
+I::: ||
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+G2 BA |dGBG
+%Error : Bar 1 is 1/2 not 4/4
+|B2 Bf 
+%Error : Bar 2 is 1/2 not 4/4
+|g>e dc/2B/2
+%Error : Bar 3 is 1/2 not 4/4
+|AGAG
+%Error : Bar 4 is 1/2 not 4/4
+|g/2e/2f/2e/2 dB
+%Error : Bar 5 is 1/2 not 4/4
+|GBAB
+%Error : Bar 6 is 1/2 not 4/4
+|GEEe
+%Error : Bar 7 is 1/2 not 4/4
+|
+dBBB
+%Error : Bar 8 is 1/2 not 4/4
+|GGAB
+%Error : Bar 9 is 1/2 not 4/4
+| cBGB 
+%Error : Bar 10 is 1/2 not 4/4
+|dDEF
+%Error : Bar 11 is 1/2 not 4/4
+|G2 G2:|
+GeBd|eedd
+%Error : Bar 14 is 1/2 not 4/4
+|Bgef
+%Error : Bar 15 is 1/2 not 4/4
+|gdBd
+%Error : Bar 16 is 1/2 not 4/4
+|cgcB
+%Error : Bar 17 is 1/2 not 4/4
+| cAdc 
+%Error : Bar 18 is 1/2 not 4/4
+|BGG
+%Warning : No repeat expected, found :|
+:|
+d 
+%Error : Bar 20 is 1/2 not 4/4
+|BdBg
+%Error : Bar 21 is 1/2 not 4/4
+| fd ed 
+%Error : Bar 22 is 1/2 not 4/4
+|cAAf
+%Error : Bar 23 is 1/2 not 4/4
+|edea
+%Error : Bar 24 is 1/2 not 4/4
+|d2 gd 
+%Error : Bar 25 is 1/2 not 4/4
+|cAFG
+%Error : Bar 26 is 1/2 not 4/4
+|FDD
+g 
+%Error : Bar 27 is 1/2 not 4/4
+|gdfd 
+%Error : Bar 28 is 1/2 not 4/4
+|Ac ec 
+%Error : Bar 29 is 1/2 not 4/4
+|dcde
+%Error : Bar 30 is 1/2 not 4/4
+|dBBG 
+%Error : Bar 31 is 1/2 not 4/4
+|gecB
+%Error : Bar 32 is 1/2 not 4/4
+|A2A2
+%Warning : No repeat expected, found :|
+:|
+g2 fe|d2e2 
+%Error : Bar 35 is 1/2 not 4/4
+|edcB
+%Error : Bar 36 is 1/2 not 4/4
+|dAec
+%Error : Bar 37 is 1/2 not 4/4
+|dBGB
+%Error : Bar 38 is 1/2 not 4/4
+|ABcd
+%Error : Bar 39 is 1/2 not 4/4
+|eAAB 
+%Error : Bar 40 is 1/2 not 4/4
+|GAGF 
+%Error : Bar 41 is 1/2 not 4/4
+|G2 G2
+%Warning : No repeat expected, found :|
+:|
+
+X:46
+T:Opberd Dance end yild.
+M:3/4
+L:1/8
+Q:1/4=120
+I::: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:A Minor
+B|EBc e2d|c2B A2G|GEE GAB|c2c c2e|
+d2B ABc|dBd d2c|BGB dgg|agf e2
+c|BGB GBc|dBd GFG|A2B c2B|A2G E2g|
+G2A A2B|cde e2e|dcB GFG|A2A A2:|
+B|G2A Bcd|e2B c2A|ABc def|gfe d2 c
+%Warning : No repeat expected, found :|
+:|
+B2A A2B|BcB cdB|c2B c2d|egf e2
+d/2c/2|B2B dcB|
+%Error : '\' in middle of line ignored
+A2G A2\
+B|cBA Bcd|ege dcB|cde B2
+%Warning : No repeat expected, found :|
+:|
+
+X:246
+T:Paron McDindan.
+M:C
+L:1/8
+Q:1/2=104
+I::| (1) :: (2) ||
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+d2 Ad | BG```````AB 
+%Error : Bar 1 is 1/2 not 4/4
+| BA A3/2F/4G/4 
+%Error : Bar 2 is 1/2 not 4/4
+|AB`````````````````BA 
+%Error : Bar 3 is 1/2 not 4/4
+|
+%Error : '\' in middle of line ignored
+\
+B>A````GF 
+%Error : Bar 4 is 1/2 not 4/4
+|(D/2E/2)(E/2E/2) (F/2E/2F/2G/2)
+%Error : Bar 5 is 1/2 not 4/4
+|AA A :|
+(B/2c/2)
+%Error : Bar 7 is 1/2 not 4/4
+|dB`AA
+%Error : Bar 8 is 1/2 not 4/4
+|F>G Ac 
+%Error : Bar 9 is 1/2 not 4/4
+|BG```````````FG
+%Error : Bar 10 is 1/2 not 4/4
+|AG c2 
+%Error : Bar 11 is 1/2 not 4/4
+| e2 de 
+%Error : Bar 12 is 1/2 not 4/4
+|
+(f/2g/2)a(g/2f/2) .e.d
+%Error : Bar 13 is 5/8 not 4/4
+|e>f (e/2d/2)(c/2B/2)
+%Error : Bar 14 is 1/2 not 4/4
+|AA``B`d
+%Error : Bar 15 is 1/2 not 4/4
+|G2 E 
+%Warning : No repeat expected, found :|
+:|
+
+X:645
+T:Miss Mornhord\'s Reel.
+M:C
+L:1/8
+Q:1/2=72
+I::: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+D|G2d Bcd
+%Error : Bar 1 is 3/4 not 4/4
+|e2e c2B
+%Error : Bar 2 is 3/4 not 4/4
+|A2A AFD
+%Error : Bar 3 is 3/4 not 4/4
+|dcB AGF
+%Error : Bar 4 is 3/4 not 4/4
+|
+%Error : '\' in middle of line ignored
+\
+G2B A2B
+%Error : Bar 5 is 3/4 not 4/4
+|cBc dBA
+%Error : Bar 6 is 3/4 not 4/4
+|Bdc BcA
+%Error : Bar 7 is 3/4 not 4/4
+|G3 G2:|
+B 
+%Error : Bar 9 is 3/4 not 4/4
+|c2c efg
+%Error : Bar 10 is 3/4 not 4/4
+|efe dBd
+%Error : Bar 11 is 3/4 not 4/4
+|BGB dBG
+%Error : Bar 12 is 3/4 not 4/4
+|FGA D3
+%Warning : No repeat expected, found :|
+:|
+
+X:108
+T:Miss Weargon\'s Do.
+M:C
+L:1/8
+Q:1/4=120
+I::| ||
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+B/2A/2|G2G B2G
+%Error : Bar 1 is 3/4 not 4/4
+|d2e d3 
+%Error : Bar 2 is 3/4 not 4/4
+|efg d3 
+%Error : Bar 3 is 3/4 not 4/4
+|cBA ABc
+%Error : Bar 4 is 3/4 not 4/4
+|B2G ABc 
+%Error : Bar 5 is 3/4 not 4/4
+|B2B B2c
+%Error : Bar 6 is 3/4 not 4/4
+|d2B G2D
+%Error : Bar 7 is 3/4 not 4/4
+|
+G2B d2g
+%Error : Bar 8 is 3/4 not 4/4
+|d2e dBG
+%Error : Bar 9 is 3/4 not 4/4
+|A3 A2B
+%Error : Bar 10 is 3/4 not 4/4
+|c2B A2
+d
+%Error : Bar 11 is 3/4 not 4/4
+|GBd g2e
+%Error : Bar 12 is 3/4 not 4/4
+|dBG A2d
+%Error : Bar 13 is 3/4 not 4/4
+|BcB AFD
+%Error : Bar 14 is 3/4 not 4/4
+|G3 G2:|
+
+X:467
+T:Rime\'s Balchb. Backable.
+M:2/4
+L:1/16
+Q:1/4=90
+I::: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:G
+d|A>B TA2
+%Error : Bar 1 is 1/4 not 2/4
+|E/2E/2E c>d
+%Error : Bar 2 is 1/4 not 2/4
+|e>eg>B
+%Error : Bar 3 is 1/4 not 2/4
+|(ed)cB
+%Error : Bar 4 is 1/4 not 2/4
+|({B}A2)Ad
+%Error : Bar 5 is 1/4 not 2/4
+|
+d<GB<g
+%Error : Bar 6 is 1/4 not 2/4
+|B
